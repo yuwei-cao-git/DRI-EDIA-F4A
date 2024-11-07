@@ -69,9 +69,9 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ### Checklist for setting an online repository 
 
-- [ ] Add a README file
+- [x] Add a README file
 - [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
+- [x] Add a [LICENSE](LICENSE.md)
 - [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
 - [ ] .gitignore file (choose from a template)
