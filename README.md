@@ -9,7 +9,7 @@
 ## News
 -  :boom: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
 <p align="center">
-<img src="reports/figures/poster.png" width=85% height=85% class="center">
+<img src="reports/figures/poster.jpg" width=85% height=85% class="center">
 </p>
 
 ## Vision and Mission
