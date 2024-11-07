@@ -6,19 +6,22 @@
 
 *DRI-EDIA Project: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All*
 
+## News
+-  :boom: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
+<p align="center">
+<img src="reports/figures/poster.png" width=85% height=85% class="center">
+</p>
+
 ## Vision and Mission
 
-- **Vision:** Our research focuses on advancing enhanced Forest Resource Inventory (eFRI) by integrating state-of-the-art technologies such as deep learning, 3D scanning, single photon LiDAR (SPL) data, and cloud computing. 
-
-- **Mission:** One sentence defining the project's goals and target audience.
+Develop accessible resources and training sessions that empower forestry professionals—especially women and other equity-seeking groups—with cutting-edge tools in Digital Research Infrastructure (DRI) and Deep Learning (DL). By facilitating broader utilization of these open-access tools among researchers and practitioners, we aim to foster women's innovation in the forestry community.
 
 ## About
 
-- **Goals:** Clear overview of overarching and short-term goals.
 - **Outcomes:**
-1. Developing precise deep learning models that integrate geospatial information, such as 3D LiDAR point cloud data and SPL data, to accurately estimate tree species proportions. These models aim to significantly enhance existing eFRI approaches.
-2. Utilizing DRI to establish foundational models and optimize them across diverse forest environments. This highperformance computing capability improves development speed and model efficiency. Testing across various forest regions in Ontario ensures the robustness and applicability of our models. Additionally, DRI supports the comprehensive management and processing of extensive forestry spatial data and 3D point clouds throughout our project lifecycle.
-3. Adhering to open science principles, we provide open access to our data, code, and pre-trained models. Moreover, we are developing algorithms and tools to democratize access to advanced AI techniques for forestry professionals. By facilitating broader utilization of these open-access tools among researchers and practitioners, we aim to foster innovation in the forestry domai
+1. Three workshops and peer-to-peer training sessions.
+2. Deep learning models as case studies in workshops, and adhering to open science principles, we provide open access to our data, code, and pre-trained models. 
+3. Github guideline documents / social media articles to democratize access to advanced computing and AI techniques for forestry professionals. 
 
 ## Repo Structure
 
@@ -41,20 +44,22 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
+|   └── presentations  <- presentations used in workshops
 │
 │
 ├── src                <- Source code for use in this project.
 │   │
-│   ├── data           <- Scripts to download or generate data
+│   ├── dataset           <- Scripts to download or generate data
 │   │   └── make_dataset.py
 │   │
 │   ├── models         <- Scripts to train models and then use trained models to make
 │   │   │                 predictions
 │   │   ├── predict_model.py
 │   │   └── train_model.py
+|   |   └── tune_model.py
 │   │
-│   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
-│       └── visualise.py
+│   └── visualization  <- Scripts to create exploratory and results-oriented visualizations
+│       └── visualize.py
 └──
 ```
 ---
