@@ -16,9 +16,11 @@
 
 Develop accessible resources and training sessions that empower forestry professionals—especially women and other equity-seeking groups—with cutting-edge tools in Digital Research Infrastructure (DRI) and Deep Learning (DL). By facilitating broader utilization of these open-access tools among researchers and practitioners, we aim to foster women's innovation in the forestry community.
 
-## About
+## Goals
+![image](https://github.com/user-attachments/assets/a454483d-2cf2-4b9e-8dfc-b788cc338175)
 
-- **Outcomes:**
+
+## Outcomes:
 1. Three workshops and peer-to-peer training sessions.
 2. Deep learning models as case studies in workshops, and adhering to open science principles, we provide open access to our data, code, and pre-trained models. 
 3. Github guideline documents / social media articles to democratize access to advanced computing and AI techniques for forestry professionals. 
