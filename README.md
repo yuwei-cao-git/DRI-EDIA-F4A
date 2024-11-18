@@ -62,6 +62,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ## 🎯 Roadmap & Milestones
 
+### [Roadmap & Milestones](../../issues/3)
 
 ### Checklist for setting an online repository 
 
