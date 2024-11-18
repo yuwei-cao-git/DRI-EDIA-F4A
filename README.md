@@ -66,14 +66,14 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 ### Checklist for setting an online repository 
 
 - [x] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
+- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
 - [x] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
+- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
 - [ ] Install [all-contributors](https://allcontributors.org/) bot
 - [ ] .gitignore file (choose from a template)
 - [ ] Issue templates
     - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
+- [x] Create a directory with files for project management (meetings, reports, proposals)
 - [ ] Create a directory with files for communications
 - [ ] Create a directory for research analysis
 - [ ] Create a directory for research results/outcomes to share (?)
