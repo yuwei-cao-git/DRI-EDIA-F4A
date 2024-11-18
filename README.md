@@ -38,7 +38,6 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 │   └── notes          <- Generated notes/records to be used in reports/meetings/workshops
 |   └── presentations  <- presentations used in workshops
 │
-│
 ├── src                <- Source code for use in this project.
 │   │── data
 │   |   ├── processed      <- The final, canonical data sets for modeling.
