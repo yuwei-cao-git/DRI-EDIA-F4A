@@ -84,6 +84,5 @@ This work is licensed under the MIT license (code) and Creative Commons Attribut
 
 This repository has been created for anyone to reuse. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
-## Acknowledgements
-code_of_conduct.md, contribution.md come from https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages
-
+## 🤝 Credits
+- code_of_conduct.md, contribution.md come from https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages
