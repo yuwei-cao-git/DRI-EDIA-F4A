@@ -18,7 +18,7 @@ Scroll down or jump to one of the following sections:
 
 Although GitHub calls them **issues**, we'd like you to think of them as **conversation starters**. They're our way of communicating across all the members of the team.
 
-(If you're here you ***already are*** a member of the STEMM Role Models team.)
+(If you're here you ***already are*** a member of the DRI-EDIA-F4A.)
 
 Your thoughts can be [questions][link_question], [bugs][link_bugs], [requests][link_requests], [applications][link_applications] or a myriad of other suggestions. In the next section we'll talk through some of the labels on each issue to help you select the ones you'd most like to help with.
 
@@ -87,7 +87,7 @@ The current list of labels are [here][link_labels] and include:
 
 * [![Requests](https://img.shields.io/badge/-requests-fbca04.svg)][link_requests] These issues are asking for features (or anything else) to be added to the project.
 
-    If you have a good idea and would like to see it implemented in the STEMM Role Models project please open a new issue and add in as much detail as possible.
+    If you have a good idea and would like to see it implemented in the DRI-EDIA-F4A project please open a new issue and add in as much detail as possible.
     
     Please try to make sure that your feature is distinct from any others that have already been requested or implemented. If you find one that's similar but there are subtle differences please reference the other request in your issue.
 
@@ -113,11 +113,11 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 1. First, describe what you're planning to do as a comment to the issue, (and this might mean making a new issue).
 
-    Check in with a couple of other members of the STEMM Role Models development team to ensure you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
+    Check in with a couple of other members of the DRI-EDIA-F4A development team to ensure you aren't overlapping with work that's currently underway and that everyone is on the same page with the goal of the work you're going to carry out.
     
     [This blog][link_pushpullblog] is a nice explanation of why putting this work in up front is so useful to everyone involved.
     
-2. [Fork][link_fork] the [STEMM Role Models repository][link_stemmrolemodelsrepo] to your profile.
+2. [Fork][link_fork] the [DRI-EDIA-F4A repository][link_DRI-EDIA-F4Arepo] to your profile.
 
     You can now do whatever you want with this copy of the project. You won't mess up anyone else's work so you're super safe.
     
@@ -135,7 +135,7 @@ Once you've identified one of the issues above that you feel you can contribute 
 
 ## Recognising contributions
 
-If you're logged into GitHub you can see everyone who has contributed to the repository via our [live contributors page][link_contributorslive]. (You might have to add `KirstieJane/STEMMRoleModels` as the repository name before you click to sign in via GitHub.)
+If you're logged into GitHub you can see everyone who has contributed to the repository via our [live contributors page][link_contributorslive]. (You might have to add `yuwei-cao-git/DRI-EDIA-F4A` as the repository name before you click to sign in via GitHub.)
 
 If you aren't logged in we have a [static version][link_contributorsstatic] of the page but it might not be completely up to date!
 
@@ -155,7 +155,7 @@ Quoting from their [website][link_hatrackhome]:
 
 If you have a question or a comment we'd love for you to [open an issue][link_issues] because that will be our fastest way of communicating, getting the answers to you and (if necessary) making a change.
 
-If you'd prefer to email the [leadership team][link_meettheteam] file you can contact [Kirstie](https://github.com/KirstieJane) at kw401 AT cam DOT ac DOT uk. She's a postdoc who isn't currently paid to develop this app, so please be gentle in your correspondence and give her a couple of days to reply. If she doesn't reply to your email before or during her regular "office hours" on Monday afternoons please feel free to ping her again.
+If you'd prefer to email the [leadership team][link_meettheteam] file you can contact [Yuwei](https://github.com/yuwei-cao-git) at yuwei.cao AT ubc DOT ca. She's a postdoc who isn't currently paid to develop this app, so please be gentle in your correspondence and give her a couple of days to reply. If she doesn't reply to your email before or during her regular "office hours" on Monday afternoons please feel free to ping her again.
 
 ## Thank you!
 
@@ -164,35 +164,34 @@ You are awesome. :heart_eyes::sparkles::sunny:
 And if you've found typos in this (or any other) page, you could consider submitting your very first pull request to fix them via the [typos and broken links][link_fixingtyposissue] issue!
 
 [link_github]: https://github.com/
-[link_stemmrolemodelsrepo]: https://github.com/KirstieJane/STEMMRoleModels
+[link_DRI-EDIA-F4Arepo]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A
 [link_signupinstructions]: https://help.github.com/articles/signing-up-for-a-new-github-account
 [link_react]: https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments
-[link_issues]: https://github.com/KirstieJane/STEMMRoleModels/issues
-[link_labels]: https://github.com/KirstieJane/STEMMRoleModels/labels
+[link_issues]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues
+[link_labels]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels
 [link_discussingissues]: https://help.github.com/articles/discussing-projects-in-issues-and-pull-requests
 
-[link_applications]: https://github.com/KirstieJane/STEMMRoleModels/labels/applications
-[link_bugs]: https://github.com/KirstieJane/STEMMRoleModels/labels/bug
-[link_frontenddev]: https://github.com/KirstieJane/STEMMRoleModels/labels/front%20end%20dev
-[link_gettogether]: https://github.com/KirstieJane/STEMMRoleModels/labels/get%20together
-[link_goodfirstbug]: https://github.com/KirstieJane/STEMMRoleModels/labels/good%20first%20bug
-[link_helpwanted]: https://github.com/KirstieJane/STEMMRoleModels/labels/help%20wanted
-[link_nocode]: https://github.com/KirstieJane/STEMMRoleModels/labels/no%20code
-[link_question]: https://github.com/KirstieJane/STEMMRoleModels/labels/question
-[link_requests]: https://github.com/KirstieJane/STEMMRoleModels/labels/requests
+[link_applications]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/applications
+[link_bugs]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/bug
+[link_frontenddev]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/front%20end%20dev
+[link_gettogether]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/get%20together
+[link_goodfirstbug]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/good%20first%20bug
+[link_helpwanted]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/help%20wanted
+[link_nocode]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/no%20code
+[link_question]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/question
+[link_requests]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/labels/requests
 
 [link_emojis]: http://www.emoji-cheat-sheet.com/
-[link_meettheteam]: https://github.com/KirstieJane/STEMMRoleModels/blob/master/MeetTheTeam.md
-[link_howacknowledge]: https://github.com/KirstieJane/STEMMRoleModels/issues/10
+[link_meettheteam]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A//MeetTheTeam.md
 [link_frontenddev_wiki]: https://en.wikipedia.org/wiki/Front_end_development
 [link_pullrequest]: https://help.github.com/articles/proposing-changes-to-a-project-with-pull-requests/
 [link_fork]: https://help.github.com/articles/fork-a-repo/
 [link_pushpullblog]: https://www.igvita.com/2011/12/19/dont-push-your-pull-requests/
 [link_branches]: https://help.github.com/articles/creating-and-deleting-branches-within-your-repository/
-[link_updateupstreamwiki]: https://github.com/KirstieJane/STEMMRoleModels/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
-[link_contributorslive]: https://labhr.github.io/js-hatrack/#repo=KirstieJane/STEMMRoleModels
-[link_contributorsstatic]: http://kirstiejane.github.io/STEMMRoleModels/octohatrack_output/Scrapbook_20160317092940/index.html
+[link_updateupstreamwiki]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/wiki/Syncing-your-fork-to-the-original-repository-via-the-browser
+[link_contributorslive]: https://labhr.github.io/js-hatrack/#repo=yuwei-cao-git/DRI-EDIA-F4A
+[link_contributorsstatic]: http://yuwei-cao-git.github.io/DRI-EDIA-F4A/octohatrack_output/Scrapbook_20160317092940/index.html
 [link_hatrackhome]: https://labhr.github.io/
 [link_hatrackidea]: http://hawthornlandings.org/2015/02/13/a-place-to-hang-your-hat/
 [link_hatrackcontributions]: http://opensource.com/life/15/10/octohat-github-non-code-contribution-tracker
-[link_fixingtyposissue]: https://github.com/KirstieJane/STEMMRoleModels/issues/22
+[link_fixingtyposissue]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/14
