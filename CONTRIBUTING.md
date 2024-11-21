@@ -1,6 +1,6 @@
-# Contributing to STEMM Role Models app
+# Contributing to DRI-EDIA-F4A
 
-Welcome to the STEMM Role Models app GitHub repository, and thank you for thinking about contributing! :smiley::heart::smiley:
+Welcome to the DRI-EDIA-F4A GitHub repository, and thank you for thinking about contributing! :smiley::heart::smiley:
 
 The point of this file is to make it suuuuuper easy for you to get involved. So if you have any questions that aren't covered here please let us know! Check out the [Share your thoughts](#share-your-thoughts) section below for more details.
 
