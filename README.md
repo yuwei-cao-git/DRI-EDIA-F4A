@@ -85,4 +85,4 @@ This work is licensed under the MIT license (code) and Creative Commons Attribut
 This repository has been created for anyone to reuse. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 
 ## 🤝 Credits
-- code_of_conduct.md, contribution.md come from https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages
+- These Contributing Guidelines have been adapted from the Contributing Guidelines of [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages)! (License: MIT)
