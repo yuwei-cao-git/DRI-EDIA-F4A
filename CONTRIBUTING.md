@@ -163,6 +163,9 @@ You are awesome. :heart_eyes::sparkles::sunny:
 
 And if you've found typos in this (or any other) page, you could consider submitting your very first pull request to fix them via the [typos and broken links][link_fixingtyposissue] issue!
 
+## Attribution
+This Contribution document is adapted from the Contributing Guidelines of STEMM Role Models App, available at [here!](https://github.com/KirstieJane/STEMMRoleModels).
+
 [link_github]: https://github.com/
 [link_DRI-EDIA-F4Arepo]: https://github.com/yuwei-cao-git/DRI-EDIA-F4A
 [link_signupinstructions]: https://help.github.com/articles/signing-up-for-a-new-github-account
