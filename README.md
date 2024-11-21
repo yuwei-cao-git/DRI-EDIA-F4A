@@ -64,24 +64,6 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ### [Roadmap & Milestones](../../issues/3)
 
-### Checklist for setting an online repository 
-
-- [x] Add a README file
-- [x] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [x] Add a [LICENSE](LICENSE.md)
-- [x] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [x] Install [all-contributors](https://allcontributors.org/) bot
-- [x] .gitignore file (choose from a template)
-- [x] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
-- [ ] Add badges
-
 ## The Team ✨
 
 - **Members:** Yuwei Cao & 
