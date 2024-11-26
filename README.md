@@ -66,7 +66,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ## The Team ✨
 
-- **Members:** Yuwei Cao & 
+- **Members:** Yuwei Cao & [Brianne Boufford](blbouf@student.ubc.ca) & [Harry Seely](https://github.com/harryseely) & [Sarah Smith-Tripp](sarahsmithtripp.github.io) & [Tommaso Trotto](https://github.com/ttrotto)
 - **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
 
 ## ♻️ License
