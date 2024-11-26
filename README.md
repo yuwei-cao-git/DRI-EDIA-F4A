@@ -14,7 +14,7 @@
 
 ## Vision and Mission
 
-Develop accessible resources and training sessions that empower forestry professionals—especially women and other equity-seeking groups—with cutting-edge tools in Digital Research Infrastructure (DRI) and Deep Learning (DL). By facilitating broader utilization of these open-access tools among researchers and practitioners, we aim to foster women's innovation in the forestry community.
+Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
 ## Goals
 ![image](https://github.com/user-attachments/assets/a454483d-2cf2-4b9e-8dfc-b788cc338175)
