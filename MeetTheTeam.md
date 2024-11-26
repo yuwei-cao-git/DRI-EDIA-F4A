@@ -1,6 +1,6 @@
 # Meet the Team
 
-## Yuwei Cao <img src="https://irsslab.forestry.ubc.ca/files/2024/06/pic_portrait-200x300.jpg" width="150" align="right"/>
+## Yuwei Cao <img src="https://irsslab.forestry.ubc.ca/files/2024/06/pic_portrait-200x300.jpg" width="200" align="right"/>
 The leader of the project is Yuwei Cao. She's a postdoctoral researcher in the Department of Forestry at the University of British Columbia studying forest tree species prediction using deep learning. She's excited to extend her skills to empower women in Forestry.
 
 <BR CLEAR=ALL>
@@ -20,7 +20,7 @@ Sarah is a proud Oregonian-British Columbia transplant. She spent her undergrad 
 
 <BR CLEAR=ALL>
 
-## [Tommaso Trotto](https://github.com/ttrotto) <img src="https://irsslab.forestry.ubc.ca/files/2022/01/Tommaso-Trotto-278x300.jpg" width="300" align="right"/>
+## [Tommaso Trotto](https://github.com/ttrotto) <img src="https://irsslab.forestry.ubc.ca/files/2022/01/Tommaso-Trotto-278x300.jpg" width="278" align="right"/>
 Tommaso was born in the countryside of Venice, Italy, where he once dreamed to become a forester in the Alps. Yet, he had always had the aspiration to move abroad and discover the wild and remote forests of Canada. Soon after, Tommaso made it to Vancouver and completed a double-degree Master’s program in Forestry (TRANSFOR-M) between the University of Padova, Italy, and UBC. During that time, Tommaso was so much surprised by the versatility, technicality, and integration of remote sensing into forestry that later it would have accompanied him during his PhD at UBC. Since 2022, Tommaso has joined the IRSS as a PhD student where he is discovering how lidar can detect and map fine temporal changes in the forest structure to make it resilient to small-scale disturbances, such as small fires and insect attacks.
 
 <BR CLEAR=ALL>
