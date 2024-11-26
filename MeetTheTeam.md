@@ -5,7 +5,7 @@ The leader of the project is Yuwei Cao. She's a postdoctoral researcher in the D
 
 <BR CLEAR=ALL>
 
-## [Brianne Boufford](blbouf@student.ubc.ca) <img src="https://irsslab.forestry.ubc.ca/files/2024/11/Brianne_B-300x249.png" width="300" align="right"/>
+## [Brianne Boufford](https://github.com/brianneboufford)) <img src="https://irsslab.forestry.ubc.ca/files/2024/11/Brianne_B-300x249.png" width="300" align="right"/>
 Brianne graduated from UBC in 2022 with a BSc in Physics. Brianne experimented with a few different areas of data science before learning about remote sensing by joining the IRSS as a work learn student. After graduating, she spent a year working as a remote sensing analyst before returning to do her MSc. Brianne’s project looks to use remote sensing data and statistical methods to improve the representation of vegetation dynamics during hydrological recovery within Raven, a process-based hydrological model.
 
 <BR CLEAR=ALL>
