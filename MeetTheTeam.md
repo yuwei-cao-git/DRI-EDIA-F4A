@@ -1,7 +1,5 @@
 # Meet the Team
 
-<BR CLEAR=ALL>
-
 ## Yuwei Cao <img src="https://irsslab.forestry.ubc.ca/files/2024/06/pic_portrait-200x300.jpg" width="150" align="right"/>
 The leader of the project is Yuwei Cao. She's a postdoctoral researcher in the Department of Forestry at the University of British Columbia studying forest tree species prediction using deep learning. She's excited to extend her skills to empower women in Forestry.
 
