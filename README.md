@@ -66,7 +66,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ## The Team ✨
 
-- **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Sarah Smith-Tripp](sarahsmithtripp.github.io) & [Tommaso Trotto](https://github.com/ttrotto)
+- **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Sarah Smith-Tripp](sarahsmithtripp.github.io) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
 
 ## ♻️ License
@@ -75,7 +75,7 @@ This work is licensed under the MIT license. You are free to share and adapt the
 
 ## 🤝 Citing & Acknowledgement
 
-- **Acknowledgment:** Thanks @Alejandro Coca-Castro for mentoring this project and his valuable suggestions!
+- **Acknowledgment:** Thanks [Alejandro Coca-Castro](https://github.com/acocac) for mentoring this project and his valuable suggestions!
 
 ## 📫 Contact
 
