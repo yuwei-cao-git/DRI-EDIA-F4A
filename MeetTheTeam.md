@@ -15,7 +15,7 @@ Harry completed his undergraduate degree in Biology at the university of Guelph 
 
 <BR CLEAR=ALL>
 
-## [Sarah Smith-Tripp](sarahsmithtripp.github.io) <img src="https://irsslab.forestry.ubc.ca/files/2023/04/Sarah-Smith-Tripp-04-23-2-300x200.jpg" width="150" align="right"/>
+## [Sarah Smith-Tripp](sarahsmithtripp.github.io) <img src="https://irsslab.forestry.ubc.ca/files/2023/04/Sarah-Smith-Tripp-04-23-2-300x200.jpg" width="300" align="right"/>
 Sarah is a proud Oregonian-British Columbia transplant. She spent her undergrad studying geosciences on the east coast at Wellesley College near Boston. Her research passions have taken her all around the world – Lake Baikal in Russia, Mongolia, and even two months sailing a tall ship across the South Pacific. Upon graduating undergrad, she couldn’t wait to move back west to complete an MSc in Geography at UBC (May 2021). Her research allows her to do one of her favorite things – tromp around burned forests.
 
 <BR CLEAR=ALL>
