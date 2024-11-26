@@ -75,8 +75,7 @@ This work is licensed under the MIT license. You are free to share and adapt the
 
 ## 🤝 Citing & Acknowledgement
 
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+- **Acknowledgment:** Thanks @Alejandro Coca-Castro for mentoring this project and his valuable suggestions!
 
 ## 📫 Contact
 
