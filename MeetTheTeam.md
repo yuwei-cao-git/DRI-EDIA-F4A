@@ -15,7 +15,7 @@ Harry completed his undergraduate degree in Biology at the university of Guelph 
 
 <BR CLEAR=ALL>
 
-## [Jing Jiang](https://github.com/harryseely) <img src="https://jingjiangmodels.github.io/images/jing%20field%20pics/image001.jpg" with="150" align="right"/>
+## [Jing Jiang](https://jingjiangmodels.github.io/) <img src="https://jingjiangmodels.github.io/images/jing%20field%20pics/image001.jpg" with="150" align="right"/>
 I'm a forest ecologist, focused on forest adaptation under climate change. My work? Assessing impacts, creating adaptive strategies, and using niche modeling to predict changes. Being trained in data science, I apply statistics and machine learning to build interdisciplinary models. The objective is simple - understand the impact of climate change on forest ecosystems and trees, identify conservation priorities, and finding home for forests in the future.
 
 <BR CLEAR=ALL>
