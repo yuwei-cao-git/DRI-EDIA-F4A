@@ -12,7 +12,13 @@
 
 ## Intro to DRI-EDIA-F4A
 
-Advancing Equity in Forestry: Digital Research Infrastructure (DRI) and Deep Learning (DL) for All
+The Digital Research Alliance of Canada (the Alliance) is launching a call for proposals for the DRI EDIA Champions pilot program, a $3.15 million dollar funding opportunity to support a new equity, diversity, inclusion, and accessibility (EDIA) initiative. 
+
+This opportunity aims to increase awareness and uptake of the Alliance’s digital research infrastructure (DRI) by equity-seeking groups. 
+
+Equitable access to DRI will strengthen the Canadian research ecosystem by ensuring equity-seeking individuals are DRI-informed and capable.
+
+our project: **Advancing Equity in Forestry: Digital Research Infrastructure (DRI) and Deep Learning (DL) for All**
 
 Equity, Diversity, Inclusion, and Accessibility (EDIA) 
 - actively promote and implement EDIA principles, specifically targeting the empowerment of women and other under-represented groups in forestry
