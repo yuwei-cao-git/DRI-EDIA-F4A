@@ -30,6 +30,8 @@ Alliance DRI:
 - Research Software
 
 ## Barries of women/under-represented groups in forestry
+Education stage: 
+- **Stereotypes and societal biases** often discourage young women from pursuing math and coding, leading to underrepresentation in these fields. (From Brianne!)
 Early Career Stage：
 - **Stereotypes and Biases**: women face entrenched stereotypes and biases that suggest they are less capable in STEM fields.
 Mid-Career Stage:
@@ -52,11 +54,19 @@ Late Career Stage:
 
 ## Topics of Workshops
 - Learn to utilize Alliance Resources tools for computationally and data-intensive research.
-- Highlighting Open Science principles benefits during workshops: 
-- Highlight EDIA: by ensuring an inclusive environment in workshops and peer-to-peer sessions, workshop posters, highlighting in workshops
+- Highlighting Open Science principles benefits during workshops.
+- Highlight EDIA: by ensuring an inclusive environment in workshops and peer-to-peer sessions, workshop posters, highlighting in workshops, add stats like the percentage of women in forestry/STEM (Thanks Jing for this idea!)
+- After each workshop, artists from [ThinkLink graphics](https://www.thinklinkgraphics.com/) will gather notes and synthesize them in a graphical illustration! 
+Topics:
+1. Open Science + Research Data Management in Forestry (two case studies: RDM in Wildfire + Vegetation dynamic modeling)
+2. Advanced computing + Machine Learning (two case studies: Detect Forestry Structure Change + Predict Forest Adaption under Climate Change)
+3. Advanced computing + Deep Learning (two case studies: Biomass Estimation + Tree Species Proportions Mapping)
 
-1. BIOMASS + DL + ARC
-2. WILDFIRE + ARC
-3. ML + ARC
-
-## Roles (points where members' knowledge and project's needs overlap)
+## Roles
+1. workshop - 1: Sarah & Brianne
+2. workshop - 2: Jing & Tommaso
+3. workshop - 3: Harry & Yuwei
+4. Conference rooms bookings, refreshment preparation, posters: Yuwei
+5. Promote people joining: All
+6. Note taker:
+7. 
