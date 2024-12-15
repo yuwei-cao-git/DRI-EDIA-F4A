@@ -5,5 +5,5 @@
 - Module 2: What is RDM (Research Data Management)? + Steps Towards Good Research Data Management (with example of your research data management)
 - Module 3: What are Research Data Repositories? + Types of Research Data Repositories + TRUST and FAIR Principles for Research Data Repositories (with example of the repositories you used)
 
-# References:
-Training sources provided by Digital Research Alliance of Canada: https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-example-dmps
+> [!TIP]
+> Training sources provided by Digital Research Alliance of Canada: https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-example-dmps
