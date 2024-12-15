@@ -1,11 +1,11 @@
 # Tasks
--[x] Conference room booking
--[] #21
--[] poster design
--[] newsletter
--[] organization meeting
--[] presentation check
--[] workshop preparation - registration, food
+- [x] Conference room booking
+- [ ] https://github.com/yuwei-cao-git/DRI_EDIA-F4A/issues/21
+- [ ] poster design
+- [ ] newsletter
+- [ ] organization meeting
+- [ ] presentation check
+- [ ] workshop preparation - registration, food
 
 # Outline
 - Project introduction
