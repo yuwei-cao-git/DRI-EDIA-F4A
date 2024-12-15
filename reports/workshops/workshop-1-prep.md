@@ -1,6 +1,6 @@
 # Tasks
 - [x] Conference room booking
-- [ ] https://github.com/octo-org/octo-repo/issues/7
+- [ ] https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
 - [ ] poster design
 - [ ] newsletter
 - [ ] organization meeting
