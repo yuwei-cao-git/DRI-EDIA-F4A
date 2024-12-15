@@ -1,3 +1,12 @@
+# Tasks
+-[x] Conference room booking
+-[] #21
+-[] poster design
+-[] newsletter
+-[] organization meeting
+-[] presentation check
+-[] workshop preparation - registration, food
+
 # Outline
 - Project introduction
 - Fun facts - women in Forestry
