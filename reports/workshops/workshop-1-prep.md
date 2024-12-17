@@ -1,12 +1,7 @@
+# Presenter
+# Time & Location
 # Tasks
-- [x] Conference room booking
-- [ ] https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
-- [ ] registration form
-- [ ] poster design
-- [ ] newsletter
-- [ ] organization meeting
-- [ ] presentation check
-- [ ] workshop preparation - food
+- https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
 
 # Outline
 1. Welcome & Project Introduction
