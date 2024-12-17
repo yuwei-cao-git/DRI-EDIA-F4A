@@ -39,3 +39,25 @@ Encourage participants to join the community (e.g., GitHub, Women+ in Forestry).
 
 > [!TIP]
 > Training sources provided by Digital Research Alliance of Canada: https://alliancecan.ca/en/services/research-data-management/learning-and-training/training-resources#heading-example-dmps
+
+
+## General Notes from Sarah + Brianne Discussion
+- Introduction  / Background include discussion on the importance of including woman in Forestry and the new age computing world 
+	- **Resource**
+		- https://www.tandfonline.com/doi/full/10.1080/1747423X.2021.2018515
+	-
+- Menti discussing cool stories they have heard 
+	- highlight some cool humans :) 
+		- Africa Flores who I met at AGU would be great to highlight~ 
+		- https://appliedsciences.nasa.gov/our-impact/people/facing-sexism-science-how-inclusion-can-overcome
+		- Morgan Crowley would be good 
+		- Karen Chen at Washington State
+- Module 2/3: 
+	- Intro to RDM 
+		- https://learn.scholarsportal.info/modules/portage/dataverse-101-module-1/
+- Module 4: 
+	- Intro to Borealis 
+		- https://learn.scholarsportal.info/all-guides/borealis/
+	- Intro to Zenodo 
+		- https://zenodo.org/records/5129303
+- Conclusion 
