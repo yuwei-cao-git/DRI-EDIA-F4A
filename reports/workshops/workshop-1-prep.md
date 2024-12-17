@@ -1,7 +1,7 @@
 # Tasks
 - [x] Conference room booking
 - [ ] https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
-- [ ] registration form
+- [ ] registration form [[https://ubc.yul1.qualtrics.com/survey-builder/SV_dnWsUSt5200JECa/edit?SurveyID=SV_dnWsUSt5200JECa]]
 - [ ] poster design
 - [ ] newsletter
 - [ ] organization meeting
