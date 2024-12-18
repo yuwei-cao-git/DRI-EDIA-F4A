@@ -14,7 +14,10 @@
       "profile": "https://github.com/yuwei-cao-git",
       "contributions": [
         "design",
-        "doc"
+        "doc",
+        "projectManagement",
+        "content",
+        "review"
       ]
     },
     {
@@ -24,7 +27,21 @@
       "profile": "https://sarahsmithtripp.github.io/",
       "contributions": [
         "design",
-        "doc"
+        "doc",
+        "ideas",
+        "talks"
+      ]
+    },
+    {
+      "login": "brianneboufford",
+      "name": "Brianne Boufford ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97699574?v=4",
+      "profile": "https://github.com/brianneboufford",
+      "contributions": [
+        "design",
+        "doc",
+        "ideas",
+        "talks"
       ]
     }
   ],
