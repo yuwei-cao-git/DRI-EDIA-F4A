@@ -82,8 +82,6 @@ This work is licensed under the MIT license. You are free to share and adapt the
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
 
-This repository has been created for anyone to reuse. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 ## 🤝 Credits
 - These Contributing Guidelines have been adapted from the Contributing Guidelines of [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages)! (License: MIT)
 
@@ -97,7 +95,6 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=jakebolam" title="Tests">⚠️</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=jakebolam" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yuwei-cao-git"><img src="https://avatars.githubusercontent.com/u/8380284?v=4?s=100" width="100px;" alt="Yuwei"/><br /><sub><b>Yuwei</b></sub></a><br /><a href="#design-yuwei-cao-git" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=yuwei-cao-git" title="Documentation">📖</a></td>
     </tr>
   </tbody>
