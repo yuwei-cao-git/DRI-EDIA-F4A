@@ -8,17 +8,6 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "jakebolam",
-      "name": "Jake Bolam",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3534236?v=4",
-      "profile": "https://jakebolam.com",
-      "contributions": [
-        "infra",
-        "test",
-        "code"
-      ]
-    },
-    {
       "login": "yuwei-cao-git",
       "name": "Yuwei",
       "avatar_url": "https://avatars.githubusercontent.com/u/8380284?v=4",
