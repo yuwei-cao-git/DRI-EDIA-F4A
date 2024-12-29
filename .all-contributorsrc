@@ -8,14 +8,40 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "jakebolam",
-      "name": "Jake Bolam",
-      "avatar_url": "https://avatars.githubusercontent.com/u/3534236?v=4",
-      "profile": "https://jakebolam.com",
+      "login": "yuwei-cao-git",
+      "name": "Yuwei",
+      "avatar_url": "https://avatars.githubusercontent.com/u/8380284?v=4",
+      "profile": "https://github.com/yuwei-cao-git",
       "contributions": [
-        "infra",
-        "test",
-        "code"
+        "design",
+        "doc",
+        "projectManagement",
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "sarahsmithtripp",
+      "name": "Sarah Smith-Tripp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60204895?v=4",
+      "profile": "https://sarahsmithtripp.github.io/",
+      "contributions": [
+        "design",
+        "doc",
+        "ideas",
+        "talks"
+      ]
+    },
+    {
+      "login": "brianneboufford",
+      "name": "Brianne Boufford ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97699574?v=4",
+      "profile": "https://github.com/brianneboufford",
+      "contributions": [
+        "design",
+        "doc",
+        "ideas",
+        "talks"
       ]
     }
   ],

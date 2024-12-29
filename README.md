@@ -1,10 +1,7 @@
 # DRI-EDIA-F4A
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 *DRI-EDIA Project: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All*
@@ -85,8 +82,6 @@ This work is licensed under the MIT license. You are free to share and adapt the
 
 - **Reach Out:** Contact details for questions, feedback, or ideas.
 
-This repository has been created for anyone to reuse. This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
-
 ## 🤝 Credits
 - These Contributing Guidelines have been adapted from the Contributing Guidelines of [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages)! (License: MIT)
 
@@ -100,7 +95,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://jakebolam.com"><img src="https://avatars.githubusercontent.com/u/3534236?v=4?s=100" width="100px;" alt="Jake Bolam"/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=jakebolam" title="Tests">⚠️</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=jakebolam" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yuwei-cao-git"><img src="https://avatars.githubusercontent.com/u/8380284?v=4?s=100" width="100px;" alt="Yuwei"/><br /><sub><b>Yuwei</b></sub></a><br /><a href="#design-yuwei-cao-git" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=yuwei-cao-git" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://sarahsmithtripp.github.io/"><img src="https://avatars.githubusercontent.com/u/60204895?v=4?s=100" width="100px;" alt="Sarah Smith-Tripp"/><br /><sub><b>Sarah Smith-Tripp</b></sub></a><br /><a href="#design-sarahsmithtripp" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=sarahsmithtripp" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/brianneboufford"><img src="https://avatars.githubusercontent.com/u/97699574?v=4?s=100" width="100px;" alt="Brianne Boufford "/><br /><sub><b>Brianne Boufford </b></sub></a><br /><a href="#design-brianneboufford" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=brianneboufford" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
