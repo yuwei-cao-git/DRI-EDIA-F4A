@@ -1,13 +1,23 @@
-# Presenter
+# :speaker: Presenter
+
+[Brianne Boufford](https://github.com/brianneboufford)
+
+[Sarah Smith-Tripp](https://sarahsmithtripp.github.io/)
+
 # Time & Location
+
+:calendar: 2025-01-27 2:00pm - 4:00pm
+
+:round_pushpin: UBC Forestry R-RM FSC 4001 & 4003
+
 # Tasks
 - https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
 - [x] Conference room booking
-- [ ] https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
+- [ ] create prep issue https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
 - [ ] registration form [[https://ubc.yul1.qualtrics.com/survey-builder/SV_dnWsUSt5200JECa/edit?SurveyID=SV_dnWsUSt5200JECa]]
 - [ ] poster design
 - [ ] newsletter
-- [ ] organization meeting
+- [ ] organization meeting 
 - [ ] presentation check
 - [ ] workshop preparation - food
 
