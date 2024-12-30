@@ -11,14 +11,7 @@
 :round_pushpin: UBC Forestry R-RM FSC 4101
 
 # Tasks
-- [x] Conference room booking
-- [ ] create prep issue https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/27
-- [ ] registration form
-- [ ] poster design
-- [ ] newsletter
-- [ ] organization meeting 
-- [ ] presentation check
-- [ ] workshop preparation - food
+- https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/27
 
 # Outline
 1. Welcome & Project Introduction
