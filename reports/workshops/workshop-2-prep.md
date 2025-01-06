@@ -8,7 +8,7 @@
 
 :calendar: 2025-02-27 2:00pm - 4:00pm
 
-:round_pushpin: UBC Forestry R-RM FSC 4101
+:round_pushpin: UBC Forestry R-RM FSC 4001
 
 # Tasks
 - https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/27
