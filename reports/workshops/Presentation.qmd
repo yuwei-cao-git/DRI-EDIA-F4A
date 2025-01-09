@@ -34,8 +34,7 @@ showtext_auto()
 theme_set(theme_minimal(base_family = "Jost"))
 ```
 
-
-## Columns and fragments
+# Columns and fragments
 
 ::: columns
 ::: {.column width="60%" .fragment}
@@ -48,4 +47,75 @@ Some content (markdown, image, video)
 
 ## Another slide 
 
+## {auto-animate=true}
 
+::: {style="margin-top: 100px;"}
+Research Management Tools
+:::
+
+::::::{.columns}
+
+:::::{.column width="30%"}
+Some text
+
+Some more text
+:::::
+
+:::::{.column width="69%"}
+
+:::: {layout="[[1,1,1], [1,1,1]]"}
+
+:::{#Zenodo}
+:::{style="text-align: center"}
+Zenodo: General Purpose
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zenodo-gradient-square.svg/2880px-Zenodo-gradient-square.svg.png)
+:::
+:::
+
+:::{#Borealis}
+:::{style="text-align: center"}
+Borealis: Canadian Data 
+![](https://borealisdata.ca/assets/img/homepage-logo.png)
+:::
+:::
+
+:::{#UBCirlce
+:::{style="text-align: center"}
+CIrcle
+![](https://circle.ubc.ca/files/2015/01/circle-logo-inverted.png)
+:::
+:::
+
+:::{#text .fragment}
+:::{style="text-align: center; color: red;"}
+col 1
+:::
+:::
+
+:::{#text .fragment}
+:::{style="text-align: center; color: red;"}
+col 2
+:::
+:::
+
+:::{#text .fragment}
+:::{style="text-align: center; color: red;"}
+col 3
+:::
+:::
+
+::::
+
+:::::
+
+::::::
+
+
+## {auto-animate=true}
+
+:::{#Zenodo}
+:::{style="text-align: top-left"}
+Zenodo: General Purpose Repository
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zenodo-gradient-square.svg/2880px-Zenodo-gradient-square.svg.png){.absolute top=200 left=0 width="200" height="150"}
+:::
+:::
