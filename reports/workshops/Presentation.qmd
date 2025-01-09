@@ -1,0 +1,59 @@
+---
+title: "Data Management in Remote Sensing🐧"
+author:
+  - Brianne Boufford, MSc Student\n 
+  - Sarah Smith-Tripp, PhD Candidate\n 
+format: 
+  revealjs:
+    multiplex: true
+    footer: "SOMETHING FUN HERE"
+    theme: "pp.scss"
+    slide-number: c/t
+    incremental: true
+    title-slide-attributes:
+      data-background-image: img/trees.png
+      data-background-size: cover  
+editor: visual
+---
+
+
+```{r setup}
+#| include: false
+#| warnings: false
+# for color
+## use 
+library(paletteer)
+
+# for cran plots
+library(cranlogs)
+library(tidyverse)
+library(scales)
+
+# for fonts
+library(showtext)
+font_add_google("Jost", "Jost")
+showtext_auto()
+theme_set(theme_minimal(base_family = "Jost"))
+
+library(recipes)
+library(broom)
+# for reporting cran downloads
+start_date <- "2020-07-23"
+end_date <- "2022-06-15"
+```
+
+
+## Columns and fragments
+
+::: columns
+::: {.column width="60%" .fragment}
+Some content (markdown, image, video)
+:::
+::: {.column width="40%" .fragment}
+Some content (markdown, image, video)
+:::
+:::
+
+## Another slide 
+
+
