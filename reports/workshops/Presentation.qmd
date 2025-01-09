@@ -21,25 +21,17 @@ editor: visual
 #| include: false
 #| warnings: false
 # for color
-## use 
-library(paletteer)
+## use pacman to load packages 
 
-# for cran plots
-library(cranlogs)
-library(tidyverse)
-library(scales)
+# Set CRAN mirror
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
 
-# for fonts
-library(showtext)
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(paletteer, cranlogs, tidyverse, scales, showtext, recipes, 
+broom)
 font_add_google("Jost", "Jost")
 showtext_auto()
 theme_set(theme_minimal(base_family = "Jost"))
-
-library(recipes)
-library(broom)
-# for reporting cran downloads
-start_date <- "2020-07-23"
-end_date <- "2022-06-15"
 ```
 
 
