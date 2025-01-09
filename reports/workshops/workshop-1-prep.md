@@ -14,7 +14,9 @@
 see: https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/21
 
 # Registration
-registration form [[https://ubc.yul1.qualtrics.com/survey-builder/SV_dnWsUSt5200JECa/edit?SurveyID=SV_dnWsUSt5200JECa]]
+*** TODO** fix qualtrics form 
+registration form 
+[[https://ubc.yul1.qualtrics.com/survey-builder/SV_dnWsUSt5200JECa/edit?SurveyID=SV_dnWsUSt5200JECa]]
 
 # poster
 
@@ -61,12 +63,26 @@ registration form [[https://ubc.yul1.qualtrics.com/survey-builder/SV_dnWsUSt5200
 		- https://appliedsciences.nasa.gov/our-impact/people/facing-sexism-science-how-inclusion-can-overcome
 		- Morgan Crowley would be good 
 		- Karen Chen at Washington State
+	- **Menti** poll // drawing 
+		- What is your background? 
+		- How do you identify in this field? 
+		- What are some barriers that you have experienced in big data analysis and advanced computing? 
+		- What is your experience in RDM ?
+		-  What tools do you know about for RDM? 
 - Module 2/3: 
 	- Intro to RDM 
 		- https://learn.scholarsportal.info/modules/portage/dataverse-101-module-1/
+	- Code storage 
+		- Github
 - Module 4: 
+	- What are the available tools? 
+		- Huggingface
+		- Zenodo
+		- UBCircle
 	- Intro to Borealis 
 		- https://learn.scholarsportal.info/all-guides/borealis/
 	- Intro to Zenodo 
 		- https://zenodo.org/records/5129303
+		- Documentation in Zenodo :) 
+		- **ACTION** make a zenodo repository
 - Conclusion 
