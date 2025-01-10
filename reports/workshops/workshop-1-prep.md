@@ -6,7 +6,7 @@
 
 # Time & Location
 
-:calendar: 2025-01-27 2:00pm - 4:00pm
+:calendar: 2025-01-27 2 pm - 4 pm
 
 :round_pushpin: UBC Forestry R-RM FSC 4001 & 4003
 
