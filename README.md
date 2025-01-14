@@ -99,25 +99,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ttrotto"><img src="https://avatars.githubusercontent.com/u/58608112?v=4?s=100" width="100px;" alt="Tommaso Trotto"/><br /><sub><b>Tommaso Trotto</b></sub></a><br /><a href="#design-ttrotto" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=ttrotto" title="Documentation">📖</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/yuwei-cao-git"><img src="https://avatars.githubusercontent.com/u/8380284?v=4?s=100" width="100px;" alt="Yuwei"/><br /><sub><b>Yuwei</b></sub></a><br /><a href="#design-yuwei-cao-git" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=yuwei-cao-git" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://sarahsmithtripp.github.io/"><img src="https://avatars.githubusercontent.com/u/60204895?v=4?s=100" width="100px;" alt="Sarah Smith-Tripp"/><br /><sub><b>Sarah Smith-Tripp</b></sub></a><br /><a href="#design-sarahsmithtripp" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=sarahsmithtripp" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/brianneboufford"><img src="https://avatars.githubusercontent.com/u/97699574?v=4?s=100" width="100px;" alt="Brianne Boufford "/><br /><sub><b>Brianne Boufford </b></sub></a><br /><a href="#design-brianneboufford" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=brianneboufford" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ttrotto"><img src="https://avatars.githubusercontent.com/u/58608112?v=4?s=100" width="100px;" alt="Tommaso Trotto"/><br /><sub><b>Tommaso Trotto</b></sub></a><br /><a href="#design-ttrotto" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=ttrotto" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gingerlolipop"><img src="https://avatars.githubusercontent.com/u/13397637?v=4?s=100" width="100px;" alt="gingerlolipop"/><br /><sub><b>gingerlolipop</b></sub></a><br /><a href="#design-gingerlolipop" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=gingerlolipop" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
