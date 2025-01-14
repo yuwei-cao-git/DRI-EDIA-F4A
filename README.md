@@ -104,7 +104,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/brianneboufford"><img src="https://avatars.githubusercontent.com/u/97699574?v=4?s=100" width="100px;" alt="Brianne Boufford "/><br /><sub><b>Brianne Boufford </b></sub></a><br /><a href="#design-brianneboufford" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=brianneboufford" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/ttrotto"><img src="https://avatars.githubusercontent.com/u/58608112?v=4?s=100" width="100px;" alt="Tommaso Trotto"/><br /><sub><b>Tommaso Trotto</b></sub></a><br /><a href="#design-ttrotto" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=ttrotto" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gingerlolipop"><img src="https://avatars.githubusercontent.com/u/13397637?v=4?s=100" width="100px;" alt="gingerlolipop"/><br /><sub><b>gingerlolipop</b></sub></a><br /><a href="#design-gingerlolipop" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=gingerlolipop" title="Documentation">📖</a></td>
-    </tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/acocac"><img src="https://avatars.githubusercontent.com/u/13321552?v=4?s=100" width="100px;" alt="Alejandro ©"/><br /><sub><b>Alejandro ©</b></sub></a><br /><a href="#mentoring-acocac" title="Mentoring">🧑‍🏫</a> <a href="#ideas-acocac" title="Ideas, Planning, & Feedback">🤔</a></td>
+   </tr>
   </tbody>
 </table>
 
