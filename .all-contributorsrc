@@ -8,13 +8,17 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "acocac",
-      "name": "Alejandro ©",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13321552?v=4",
-      "profile": "https://github.com/acocac",
+      "login": "ttrotto",
+      "name": "Tommaso Trotto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58608112?v=4",
+      "profile": "https://github.com/ttrotto",
+      "login": "gingerlolipop",
+      "name": "gingerlolipop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13397637?v=4",
+      "profile": "https://github.com/gingerlolipop",
       "contributions": [
-        "mentoring",
-        "ideas"
+        "design",
+        "doc"
       ]
     }
   ],
