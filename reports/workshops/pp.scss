@@ -8,8 +8,13 @@
 // overridden by the super-theme
 
 // Background of the presentation
-$backgroundColor: #fcfbf9;
+//$backgroundColor: #fcfbf9;
 
+// Define the gradient for the slide background */
+.slide-background-content{
+  background-image: linear-gradient(#f0f0f0, #196D10);
+  background-size: 100% 100%;
+}
 // Primary/body text
 $mainFont: 'Jost', sans-serif;
 $mainFontSize: 30px;
