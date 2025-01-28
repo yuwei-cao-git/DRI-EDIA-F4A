@@ -46,6 +46,16 @@
         "design",
         "doc"
       ]
+    },
+    {
+      "login": "sarahsmithtripp",
+      "name": "Sarah Smith-Tripp",
+      "avatar_url": "https://avatars.githubusercontent.com/u/60204895?v=4",
+      "profile": "https://sarahsmithtripp.github.io/",
+      "contributions": [
+        "design",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
