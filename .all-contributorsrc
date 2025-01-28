@@ -8,40 +8,33 @@
   "commitConvention": "angular",
   "contributors": [
     {
-      "login": "yuwei-cao-git",
-      "name": "Yuwei",
-      "avatar_url": "https://avatars.githubusercontent.com/u/8380284?v=4",
-      "profile": "https://github.com/yuwei-cao-git",
+      "login": "gingerlolipop",
+      "name": "gingerlolipop",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13397637?v=4",
+      "profile": "https://github.com/gingerlolipop",
       "contributions": [
         "design",
-        "doc",
-        "projectManagement",
-        "content",
-        "review"
+        "doc"
       ]
     },
     {
-      "login": "sarahsmithtripp",
-      "name": "Sarah Smith-Tripp",
-      "avatar_url": "https://avatars.githubusercontent.com/u/60204895?v=4",
-      "profile": "https://sarahsmithtripp.github.io/",
+      "login": "ttrotto",
+      "name": "Tommaso Trotto",
+      "avatar_url": "https://avatars.githubusercontent.com/u/58608112?v=4",
+      "profile": "https://github.com/ttrotto",
       "contributions": [
         "design",
-        "doc",
-        "ideas",
-        "talks"
+        "doc"
       ]
     },
     {
-      "login": "brianneboufford",
-      "name": "Brianne Boufford ",
-      "avatar_url": "https://avatars.githubusercontent.com/u/97699574?v=4",
-      "profile": "https://github.com/brianneboufford",
+      "login": "harryseely",
+      "name": "Harry Seely",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96886876?v=4",
+      "profile": "https://harryseely.github.io",
       "contributions": [
         "design",
-        "doc",
-        "ideas",
-        "talks"
+        "doc"
       ]
     }
   ],

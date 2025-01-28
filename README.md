@@ -1,4 +1,7 @@
 # DRI-EDIA-F4A
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
@@ -7,10 +10,12 @@
 *DRI-EDIA Project: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All*
 
 ## News
--  :boom: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
+-  :boom: Jan. 10, 2025: we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa) of the first workshop! 📆 2025-01-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
 <p align="center">
-<img src="reports/figures/poster.jpg" width=85% height=85% class="center">
+<img src="reports/figures/workshop1.jpg" width=85% height=85% class="center">
 </p>
+-  :boom: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
+
 
 ## Vision and Mission
 
@@ -88,16 +93,15 @@ This work is licensed under the MIT license. You are free to share and adapt the
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/yuwei-cao-git"><img src="https://avatars.githubusercontent.com/u/8380284?v=4?s=100" width="100px;" alt="Yuwei"/><br /><sub><b>Yuwei</b></sub></a><br /><a href="#design-yuwei-cao-git" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=yuwei-cao-git" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://sarahsmithtripp.github.io/"><img src="https://avatars.githubusercontent.com/u/60204895?v=4?s=100" width="100px;" alt="Sarah Smith-Tripp"/><br /><sub><b>Sarah Smith-Tripp</b></sub></a><br /><a href="#design-sarahsmithtripp" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=sarahsmithtripp" title="Documentation">📖</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/brianneboufford"><img src="https://avatars.githubusercontent.com/u/97699574?v=4?s=100" width="100px;" alt="Brianne Boufford "/><br /><sub><b>Brianne Boufford </b></sub></a><br /><a href="#design-brianneboufford" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=brianneboufford" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gingerlolipop"><img src="https://avatars.githubusercontent.com/u/13397637?v=4?s=100" width="100px;" alt="gingerlolipop"/><br /><sub><b>gingerlolipop</b></sub></a><br /><a href="#design-gingerlolipop" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=gingerlolipop" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/ttrotto"><img src="https://avatars.githubusercontent.com/u/58608112?v=4?s=100" width="100px;" alt="Tommaso Trotto"/><br /><sub><b>Tommaso Trotto</b></sub></a><br /><a href="#design-ttrotto" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=ttrotto" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://harryseely.github.io"><img src="https://avatars.githubusercontent.com/u/96886876?v=4?s=100" width="100px;" alt="Harry Seely"/><br /><sub><b>Harry Seely</b></sub></a><br /><a href="#design-harryseely" title="Design">🎨</a> <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/commits?author=harryseely" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
