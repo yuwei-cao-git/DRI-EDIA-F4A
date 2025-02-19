@@ -6,7 +6,7 @@
 *DRI-EDIA Project: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All*
 
 ## News
--  :boom: Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa](https://lnkd.in/d6hKVagT)) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
+-  :boom: Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa]) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
 <p align="center">
 <img src="reports/figures/workshop2_poster.png" width=85% height=85% class="center">
 </p>
