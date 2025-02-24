@@ -27,7 +27,23 @@ https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/28
   - dataset?
   - model?
   - magic castle apply/login/assign to trainees
-   
+  
+
+# Workshop Timeline 
+
+| Time         | Duration     | Activity                                                                 |
+|--------------|--------------|--------------------------------------------------------------------------|
+| 2:00 - 2:15  | 15 minutes   | Women Empowerment Communities in Geospatial Science and AI               |
+| 2:15 - 2:30  | 15 minutes   | Introduction to Deep Learning                                            |
+| 2:30 - 2:45  | 15 minutes   | Accessing Advanced Computing Resources                                   |
+| 2:45 - 2:55  | 10 minutes   | Break and snacks                                                         |
+| 2:55 - 3:30  | 35 minutes   | Interactive Deep Learning Session: Try it out!                           |
+| 3:30 - 3:35  | 5 minutes    | Modelling Forest Biomass using Deep Learning (Harry)                     |
+| 3:35 - 3:40  | 5 minutes    | Modelling Tree Species using Deep Learning (Yuwei)                       |
+| 3:40 - 4:00  | 20 minutes   | Discussion about Women in AI Research and Development                    |
+
+
+
 > [!TIP]
 >
 # Refs
