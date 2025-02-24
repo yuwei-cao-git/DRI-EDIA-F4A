@@ -18,8 +18,6 @@
   - Brief introduction of the workshop goals and the project’s mission.
   - Highlight the Women+ (W+) concept and its role in promoting equity and inclusivity in forestry research.
 2. Women in Forestry
-  - Discuss the concepts of Women+ and why EDI is important.
-  - Communities we have.
 3. Module 1: Presentation 1
 - Topic: Modelling the impact of climate change on forest ecosystems and trees
 - Example: Demonstrate how to train your ML model on a cluster and result visualization
