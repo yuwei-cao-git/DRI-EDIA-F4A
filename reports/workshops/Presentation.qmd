@@ -1,0 +1,262 @@
+---
+title: "Data Management in Remote Sensing🐧"
+author:
+  - Brianne Boufford, MSc Student
+  - Sarah Smith-Tripp, PhD Candidate
+format: 
+  revealjs:
+    multiplex: true
+    footer: "Research & Data Management" {color: 'orange'}
+    theme: "pp.scss"
+    slide-number: c/t
+    incremental: true
+    title-slide-attributes:
+      data-background-image: img/trees.png
+      data-background-size: cover  
+    includes:
+      in-header: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+editor: visual
+---
+
+```{r setup}
+#| include: false
+#| warnings: false
+# for color
+## use pacman to load packages 
+
+# Set CRAN mirror
+options(repos = c(CRAN = "https://cran.rstudio.com/"))
+
+if (!require("pacman")) install.packages("pacman")
+pacman::p_load(paletteer, cranlogs, tidyverse, scales, showtext, recipes, 
+broom, kableExtra)
+font_add_google("Jost", "Jost")
+showtext_auto()
+theme_set(theme_minimal(base_family = "Jost"))
+```
+
+# Presenter Introduction {auto-animate="true"}
+
+::::: columns
+::: {.column .fragment width="60%"}
+<img src="https://irsslab.forestry.ubc.ca/files/2023/04/Sarah-Smith-Tripp-04-23-2-300x200.jpg" width="400"/>
+
+Sarah Smith-Tripp
+
+4th Year PhD Candidate
+
+Recovery after Catastrophic Wildfire
+:::
+
+::: {.column .fragment width="40%"}
+<img src="https://irsslab.forestry.ubc.ca/files/2024/11/Brianne_B-300x249.png" width="300"/>
+
+Brianne Boufford
+
+2nd year MSc
+
+Impacts of Disturbances on Water
+:::
+:::::
+
+## Workshop Overview
+1. 
+2. 
+3.  Introduction to Data Management Tools
+
+4.  Working with Zenodo for Data Storage
+
+5.  Accessing Data from Borealis
+
+6.  What to Expect when Submitting to UBC CIrcle
+
+## Introduction to the Digital Research Alliance
+
+![](https://marketing.globuscs.info/production/strapi/uploads/community_logo_DRAC_3d50e8b654.svg){.absolute top="100" left="0" width="800" height="600"}
+
+-   Supports data-management and data-sharing across all Canadian federally funded research
+-   Technical and logistal support for many "data-repositories"
+-   Provides training and documentation to **standardize data reporting** and **storage** for better research collaboration
+
+## Defining Research Data Management {auto-animate="true"}
+::::: columns
+::: {.column .fragment width="40%"}
+
+Research Data Management is the process of:
+
+-   Collecting
+
+-   Documenting
+
+-   Storing
+
+-   Sharing
+
+-   Presenting
+
+**All Research Data Associated with a Project**
+:::
+
+::: {.column .fragment width="60%"}
+
+![](https://www.researchgate.net/profile/M-Yazdi-4/publication/378288582/figure/fig1/AS:11431281224348632@1708206876909/Stages-Involved-in-the-research-data-management-1.jpg){ width = "450"}
+:::
+:::::
+
+## Research Repositories Under The Alliance
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+data <- data.frame(
+  Repository = c("**Zenodo**", "**Borealis**", "Lunaris", "FRDR"),
+  Focus = c("General-purpose", "Humanities & Social Sciences", "Searching ALL Repos", "Canadian research data"),
+  Eligibility = c("Anyone", "Canadian researchers", "Not a repository", "Canadian researchers"),
+  Data_Types = c("Wide range", "Text, images, audio, video", "Aggregates metadata", "Wide range"),
+  Size_Limits = c("50GB (default)", "5GB", "N/A", "Varies"),
+  Metadata_Requirements = c("Basic (title, description, authors, license)", "Detailed (descriptive, provenance, rights)", "Relies on contributing repositories", "Detailed (descriptive, provenance, rights)"),
+  Data_Preservation = c("Not enforced", "Long-term preservation", "N/A", "Emphasized")
+)
+
+kable(data) %>%
+  kable_styling(bootstrap_options = c("striped", "hover"), full_width = T)
+```
+
+## Highlighted Research Management Tools {auto-animate="true"}
+
+:::::::::::::::::: columns
+::: {.column width="30%"}
+Repositories you *might* use
+:::
+
+:::::::::::::::: {.column width="69%"}
+::::::::::::::: {layout="[[1,1,1], [1,1,1]]"}
+:::: {#Zenodo}
+::: {style="text-align: center"}
+Borealis: Canadian University Data ![](https://borealisdata.ca/assets/img/homepage-logo.png)
+:::
+::::
+
+:::: {#Borealis}
+::: {style="text-align: center"}
+Zenodo: General Purpose ![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zenodo-gradient-square.svg/2880px-Zenodo-gradient-square.svg.png)
+:::
+::::
+
+:::: {#UBCIrlce
+::: {style="text-align: center"}
+UBC Data ![](https://circle.ubc.ca/files/2015/01/circle-logo-inverted.png)
+:::
+::::
+
+:::: {#text .fragment}
+::: {style="text-align: center; color: blue;"}
+Research data Meta-data
+:::
+::::
+
+:::: fragment
+::: {style="text-align: center; color: blue;"}
+Research Protocols Research Data Full Research Projects and Communities
+:::
+::::
+
+:::: fragment
+::: {style="text-align: center; color: blue;"}
+UBC focused research Theses (Thesis data)
+:::
+::::
+:::::::::::::::
+::::::::::::::::
+::::::::::::::::::
+
+## Borealis Overview {auto-animate="true"}
+
+::::::: columns
+::::: {.column width="30%"}
+<div>
+
+::: {style="text-align: top-left"}
+![](https://borealisdata.ca/assets/img/homepage-logo.png){.absolute top="100" left="0" width="200" height="80"}
+:::
+
+</div>
+:::::
+
+::: {.column width="69%"}
+-   Borealis is a **Canadian** open-access repository.
+-   It allows researchers to deposit data sets, research software, reports, and any other research-related digital artifacts.
+-   Borealis is hosted by a consortium of Canadian institutions.
+-   It provides a DOI for all uploaded content, making it citable.
+-   Borealis supports versioning of datasets and other research outputs.
+-   It is designed to meet the needs of Canadian researchers and their collaborators.
+:::
+:::::::
+
+# Borealis Example {}
+Let's explore **Borealis** in [**Demo-Mode**](https://demo.borealisdata.ca/dataverse/ubc)
+
+# Zenodo Overview {auto-animate="true" background-gradient="linear-gradient(rgb(248, 253, 247), rgb(73, 129, 62))"}
+
+::::: {.column width="30%"}
+<div>
+
+::: {style="text-align: top-left"}
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Zenodo-gradient-square.svg/2880px-Zenodo-gradient-square.svg.png){.absolute top="100" left="0" width="200" height="80"}
+:::
+
+</div>
+:::::
+
+::: {.column width="69%"}
+-   Zenodo is a **general-purpose** open-access repository.
+-   It allows researchers to deposit data sets, research software, reports, and any other research-related digital artifacts.
+-   Zenodo was created by OpenAIRE and CERN to support the EU's Open Data policy.
+-   It provides a DOI for all uploaded content, making it citable.
+-   Zenodo supports versioning of datasets and other research outputs.
+
+:::
+
+## Zenodo Example {auto-animate="true"}
+
+-   Zenodo has "Research Communities" that allow us to efficiently search one repository
+-   For example, we can go to the [Digital Research Alliance](https://zenodo.org/records/4495482) which provides an overview of how we can set up a simple data management plan
+-   When we explore this webpage we can see
+    -   the version history
+    -   the DOI for us to cite the data
+    -   the number of times the dataset or file has been accessed
+
+## Navigating Zenodo {auto-animate="true"}
+
+Let's walk through how we would upload the content of *this* workshop to Zenodo! To do so we will:
+
+1.  Develop a name and effective tags for our workshop
+
+2.  Add collaborators to work on the draft version of the workshop
+
+3.  Specify a license to publish to the data under
+
+4.  Publish and and access our DOI
+
+## UBC CIRcle Overview {auto-animate="true"}
+
+::::::: columns
+::::: {.column width="30%"}
+:::: {#UBCirlce}
+::: {style="text-align: top-left"}
+![](https://circle.ubc.ca/files/2015/01/circle-logo-inverted.png){.absolute top="100" left="0" width="200" height="80"}
+:::
+::::
+:::::
+
+::: {.column width="69%"}
+-   UBC CIRcle is the University of British Columbia's digital repository for research and teaching materials.
+-   It allows UBC researchers to share and preserve their scholarly work.
+-   CIRcle provides a DOI for all uploaded content, making it citable.
+-   It supports a wide range of digital formats and content types.
+-   CIRcle is designed to enhance the visibility and impact of UBC research.
+:::
+:::::::

@@ -126,3 +126,7 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+## TODO
+https://github.com/the-turing-way/the-turing-way/blob/main/CONTRIBUTING.md
+https://github.com/the-turing-way/the-turing-way/blob/main/ways_of_working.md
