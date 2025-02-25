@@ -20,14 +20,17 @@ https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/28
   - Communities we have.
 
 2. Intro to AI in EO & Forestry
-3. Research DL in Biomass prediction
-4. ARC Intro
-5. Practice session
+
+3. Accessing Advanced Computing Resources
+
+4. Practice session
   - task?
   - dataset?
   - model?
   - magic castle apply/login/assign to trainees
   
+5. research
+6. discussion & wrap up
 
 # Workshop Timeline 
 
@@ -53,3 +56,11 @@ https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/28
 - ARC training:
   - https://github.com/ray-project/tutorial/tree/master
   - https://training.westdri.ca/
+- access arc:
+  - the alliance: 
+  - ubc: https://extendedlearning.ubc.ca/areas-study/cloud-computing?gad_source=1&gclid=CjwKCAiAzvC9BhADEiwAEhtlNyHFuavI6QZazFAEdojmeylpVgXZaF9iD8V64Zuee9EZJhuHewW2_BoCEkcQAvD_BwE
+  - upcoming: https://alliancecan.ca/en/services/advanced-research-computing/pan-canadian-ai-compute-environment-paice
+- communities:
+  - women+ in forestry/geospatial
+  - women in DL/AI
+  - ubc
