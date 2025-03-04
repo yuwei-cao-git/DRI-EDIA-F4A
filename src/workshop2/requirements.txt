@@ -1,0 +1,9 @@
+scikit-learn
+polars
+numpy
+matplotlib
+rioxarray
+scipy
+tqdm
+hdbscan
+laspy[lazrs]
