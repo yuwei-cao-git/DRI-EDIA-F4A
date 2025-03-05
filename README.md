@@ -6,7 +6,7 @@
 *DRI-EDIA Project: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All*
 
 ## News
--  :boom: Mar. 04, 2025: we uploaded the [recording](), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
+-  :boom: Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
 <p align="center">
 <img src="reports/figures/workshop2_poster.png" width=85% height=85% class="center">
 </p>
