@@ -73,7 +73,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ### [Roadmap & Milestones](../../issues/3)
 
-## The Team ✨
+## Team ✨
 
 - **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Jing Jiang](https://jingjiangmodels.github.io/) & [Sarah Smith-Tripp](https://sarahsmithtripp.github.io/) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
