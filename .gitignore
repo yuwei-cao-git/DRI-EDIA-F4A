@@ -1,3 +1,10 @@
 
 # exclude obsidian files
 .obsidian/*
+
+#Ignore UV related files
+*.toml
+*.python-version
+*uv.lock
+**/.venv/
+**/data
