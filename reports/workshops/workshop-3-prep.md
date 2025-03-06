@@ -42,6 +42,13 @@ https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/28
 | 3:35 - 3:40  | 5 minutes    | Modelling Tree Species using Deep Learning (Yuwei)                       |
 | 3:40 - 4:00  | 20 minutes   | Discussion about Women in AI Research and Development                    |
 
+# Workshop Notes from Feb 24th meeting (Harry)
+
+- Identify 3 prominent women in AI research (Ideally with a focus on forestry/environmental science/ecology)
+- Women ML Communities and resources (in general and at UBC)
+- Create basic binary calssification jupyter notebook using pytorch lightning. Add full training loop, with trained model applied to test dataset. Generated confusion matrix in addition to Acc. and Prec. metrics. Demonstrate how changing hyperparameters (LR, Batch Size, Dropout, etc.) affect model outcomes.
+- Potential dataset: Quebec Trees https://zenodo.org/records/8148479
+
 
 
 > [!TIP]
