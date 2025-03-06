@@ -5,6 +5,18 @@
 
 *DRI-EDIA Project: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All*
 
+<p align="center">
+<a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A">View on Github</a>
+</p>
+
+<p align="center">
+  <strong><a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#0News">News</a></strong> •
+  <strong><a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#1Vision and Mission">About</a></strong> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#2Tutorials">Tutorials</a> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#3Workshops">Workshops</a> •
+  <a href=https://github.com/yuwei-cao-git/DRI-EDIA-F4A#4The Team">Team</a> •
+</p>
+
 ## News
 -  :boom: Mar. 06, 2025, we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_0TEE9rR6BKyiuou) of our last workshop!  📆 2025-03-24 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
 <p align="center">
