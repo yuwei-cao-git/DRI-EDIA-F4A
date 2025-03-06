@@ -22,6 +22,8 @@
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
+## Tutorials
+## Workshops
 ## Goals
 - Create clear open documents and organize workshops for people to access DRI resources in the forestry community:
 Remote sensing data management in DRI Model training in DRI
