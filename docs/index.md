@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <strong><a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#0News">News</a></strong> •
-  <strong><a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#1Vision and Mission">About</a></strong> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#2Tutorials">Tutorials</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#3Workshops">Workshops</a> •
-  <a href=https://github.com/yuwei-cao-git/DRI-EDIA-F4A#4The Team">Team</a> •
+  <strong><a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#News">News</a></strong> •
+  <strong><a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Vision and Mission">About</a></strong> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Tutorials">Tutorials</a> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Workshops">Workshops</a> •
+  <a href=https://github.com/yuwei-cao-git/DRI-EDIA-F4A#The Team">Team</a> •
 </p>
 
 ## News
@@ -34,6 +34,10 @@
 ## Vision and Mission
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
+
+## Tutorials
+
+## Workshops
 
 ## The Team ✨
 
