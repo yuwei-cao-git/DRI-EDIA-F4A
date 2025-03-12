@@ -1,0 +1,36 @@
+[project]
+name = "dri-edia-f4a"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "torch==2.5.1",
+  "torchvision==0.20.1",
+  "lightning==2.5.0",
+  "scikit-learn==1.6.1",
+  "notebook==7.3",
+  "matplotlib==3.10",
+  "seaborn==0.13.2",
+  "pandas==2.2.3",
+  "geopandas==1.0.1",
+  "rasterio==1.4.3",
+  "rioxarray==0.18.2",
+  "ipywidgets==8.1.5",
+  "folium", 
+  "mapclassify"
+]
+
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cu124", marker = "sys_platform == 'win32'" },
+]
+torchvision = [
+  { index = "pytorch-cu124", marker = "sys_platform == 'win32'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu124"
+url = "https://download.pytorch.org/whl/cu124"
+explicit = true
+
