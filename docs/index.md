@@ -9,9 +9,9 @@
 <p align="center">
   <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#News">News</a> •
   <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Vision and Mission">About</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Tutorials & Materials">Tutorials</a> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Tutorials and Materials">Tutorials</a> •
   <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Workshops">Workshops</a> •
-  <a href=https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Team">Team</a>
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Team">Team</a>
 </p>
 
 # News
