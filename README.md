@@ -7,9 +7,11 @@
 
 ## News
 -  :boom: Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
+
 <p align="center">
 <img src="reports/figures/workshop2_poster.png" width=85% height=85% class="center">
 </p>
+
 -  :boom: Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa]) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
 -  :boom: Feb. 10, 2025: we uploaded the [recording](https://lnkd.in/dTnGpGDu) and [slides](https://doi.org/10.5281/zenodo.14624629) in our first workshop 🌟 Workshop 1: Earth Observation (EO) Data Management and Open Science Practices 🌟! 
 
@@ -25,9 +27,15 @@ Forestry professionals, environmental researchers, and policy makers are working
 ## Tutorials & Materials
 
 Workshop 1: https://doi.org/10.5281/zenodo.14624629
+
 Workshop 2: https://github.com/ttrotto/EDI-HPC
 
 ## Workshops
+
+[![Workshop 1 - Earth Observation (EO) Data Management and Open Science Practices](https://img.youtube.com/vi/QRvA-ZVUWdM&t=1s/default.jpg)](https://youtu.be/QRvA-ZVUWdM&t=1s)
+
+[![Workshop 2 - Machine Learning in Forest Modelling](https://img.youtube.com/vi/ak4Y0czZn2w&t=5s/0.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
+
 ## Goals
 - Create clear open documents and organize workshops for people to access DRI resources in the forestry community:
 Remote sensing data management in DRI Model training in DRI
