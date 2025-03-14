@@ -32,16 +32,6 @@ Workshop 2: https://github.com/ttrotto/EDI-HPC
 
 [![Workshop 2 - Machine Learning in Forest Modelling](./reports/figures/workshop2-tv.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
 
-## Goals
-- Create clear open documents and organize workshops for people to access DRI resources in the forestry community:
-Remote sensing data management in DRI Model training in DRI
-- Create actionable paths to contribute to open science practice with their research as case studies
-
-## Outcomes
-1. Three workshops and peer-to-peer training sessions.
-2. Deep learning models as case studies in workshops, and adhering to open science principles, we provide open access to our data, code, and pre-trained models. 
-3. Github guideline documents / social media articles to democratize access to advanced computing and AI techniques for forestry professionals. 
-
 ## Repo Structure
 
 Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
