@@ -9,16 +9,18 @@
 <p align="center">
   <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#News">News</a> •
   <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Vision and Mission">About</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Tutorials">Tutorials</a> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Tutorials & Materials">Tutorials</a> •
   <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Workshops">Workshops</a> •
   <a href=https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Team">Team</a>
 </p>
 
 # News
 -  💥: Mar. 06, 2025, we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_0TEE9rR6BKyiuou) of our last workshop!  📆 2025-03-24 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
+
 <p align="center">
 <img src="../reports/figures/workshop3_poster.png" width=85% height=85% class="center">
 </p>
+
 -  💥: Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
 -  💥: Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa]) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
 -  💥: Feb. 10, 2025: we uploaded the [recording](https://lnkd.in/dTnGpGDu) and [slides](https://doi.org/10.5281/zenodo.14624629) in our first workshop 🌟 Workshop 1: Earth Observation (EO) Data Management and Open Science Practices 🌟! 
@@ -32,11 +34,7 @@
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
-# Tutorials
-
-# Workshops
-
-# The Team ✨
+# The Team 
 
 - **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Jing Jiang](https://jingjiangmodels.github.io/) & [Sarah Smith-Tripp](https://sarahsmithtripp.github.io/) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
