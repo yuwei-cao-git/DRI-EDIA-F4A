@@ -22,14 +22,18 @@
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
-## Tutorials
+## Tutorials & Materials
+
+Workshop 1: https://doi.org/10.5281/zenodo.14624629
+Workshop 2: https://github.com/ttrotto/EDI-HPC
+
 ## Workshops
 ## Goals
 - Create clear open documents and organize workshops for people to access DRI resources in the forestry community:
 Remote sensing data management in DRI Model training in DRI
 - Create actionable paths to contribute to open science practice with their research as case studies
 
-## Outcomes:
+## Outcomes
 1. Three workshops and peer-to-peer training sessions.
 2. Deep learning models as case studies in workshops, and adhering to open science principles, we provide open access to our data, code, and pre-trained models. 
 3. Github guideline documents / social media articles to democratize access to advanced computing and AI techniques for forestry professionals. 
@@ -73,7 +77,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 
 ### [Roadmap & Milestones](../../issues/3)
 
-## Team ✨
+## Team
 
 - **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Jing Jiang](https://jingjiangmodels.github.io/) & [Sarah Smith-Tripp](https://sarahsmithtripp.github.io/) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
