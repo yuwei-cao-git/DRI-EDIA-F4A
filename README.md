@@ -16,11 +16,11 @@
 -  :boom: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
 
 
-## Vision and Mission
+## Vision
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
-## Tutorials & Materials
+## Tutorials
 
 Workshop 1: https://doi.org/10.5281/zenodo.14624629
 
