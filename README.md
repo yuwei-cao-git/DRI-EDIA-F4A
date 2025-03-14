@@ -30,7 +30,7 @@ Workshop 2: https://github.com/ttrotto/EDI-HPC
 
 [![Workshop 1 - Earth Observation (EO) Data Management and Open Science Practices](./reports/figures/workshop1_tv.jpg)](https://youtu.be/QRvA-ZVUWdM&t=1s)
 
-[![Workshop 2 - Machine Learning in Forest Modelling](.reports/figures/workshop2-tv.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
+[![Workshop 2 - Machine Learning in Forest Modelling](./reports/figures/workshop2-tv.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
 
 ## Goals
 - Create clear open documents and organize workshops for people to access DRI resources in the forestry community:
