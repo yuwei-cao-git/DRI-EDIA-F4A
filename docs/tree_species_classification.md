@@ -607,7 +607,7 @@ plt.show()
 
 
     
-![png](tree_species_classification_files/tree_species_classification.vis_10_0.png)
+![png](tree_species_classification_files/tree_species_classification_10_0.png)
     
 
 
@@ -1169,7 +1169,7 @@ plt.show()
 
 
     
-![png](tree_species_classification.vis_files/tree_species_classification.vis_22_0.png)
+![png](tree_species_classification_files/tree_species_classification_22_0.png)
     
 
 
@@ -1274,7 +1274,7 @@ plt.show()
 
 
     
-![png](tree_species_classification.vis_files/tree_species_classification.vis_27_1.png)
+![png](tree_species_classification_files/tree_species_classification_27_1.png)
     
 
 
@@ -1326,7 +1326,7 @@ for c_type in test_df['species_type'].unique():
 
 
     
-![png](tree_species_classification.vis_files/tree_species_classification.vis_28_1.png)
+![png](tree_species_classification_files/tree_species_classification_28_1.png)
     
 
 
@@ -1337,7 +1337,7 @@ for c_type in test_df['species_type'].unique():
 
 
     
-![png](tree_species_classification.vis_files/tree_species_classification.vis_28_3.png)
+![png](tree_species_classification_files/tree_species_classification_28_3.png)
     
 
 
