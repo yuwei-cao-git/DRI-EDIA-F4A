@@ -607,7 +607,7 @@ plt.show()
 
 
     
-![png](tree_species_classification.vis_files/tree_species_classification.vis_10_0.png)
+![png](tree_species_classification_files/tree_species_classification.vis_10_0.png)
     
 
 
