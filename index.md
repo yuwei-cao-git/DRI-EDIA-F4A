@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Project
+title: Forest for ALL
 ---
 
 {% include_relative README.md %}

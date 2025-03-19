@@ -1,5 +1,3 @@
 theme: minima
 title: Forest for ALL
-search_enabled: false
-heading_anchors: true
-toc: true
+permalink: pretty

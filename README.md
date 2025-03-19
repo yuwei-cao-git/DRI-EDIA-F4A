@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 style="text-align:center;">
   DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All
 </h1>
 
@@ -7,12 +7,14 @@
 </p>
 
 <p align="center">
-  <a href="#News">News</a> •
-  <a href="#Vision">About</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/MeetTheTeam.md">Team</a> •
-  <a href="#Workshops">Workshops</a> •
-  <a href="#Tutorials">Tutorials</a>
+  <a href="#news">News</a> •
+  <a href="#vision">About</a> •
+  <a href="#team">Team</a> •
+  <a href="#workshops">Workshops</a> •
+  <a href="#tutorials">Tutorials</a>
 </p>
+
+<div id="news"></div>
 
 ## News
 -  :boom: Mar. 10, 2025: we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_0TEE9rR6BKyiuou) of the third workshop! 📆 2025-03-24 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
@@ -24,10 +26,13 @@
 
 -  :boom: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
 
+<div id="vision"></div>
 
 ## Vision
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
+
+<div id="tutorials"></div>
 
 ## Tutorials
 
@@ -37,11 +42,15 @@ Forestry professionals, environmental researchers, and policy makers are working
 - [Distributed Computing](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html)
 - [Deep learning in Tree Species Classification](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html)
 
+<div id="workshops"></div>
+
 ## Workshops
 
 [![Workshop 1 - Earth Observation (EO) Data Management and Open Science Practices](./reports/figures/workshop1_tv.jpg)](https://youtu.be/QRvA-ZVUWdM&t=1s)
 
 [![Workshop 2 - Machine Learning in Forest Modelling](./reports/figures/workshop2-tv.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
+
+<div id="structure"></div>
 
 ## Repo Structure
 
@@ -78,18 +87,26 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 ```
 ---
 
+<div id="roadmap"></div>
+
 ## 🎯 Roadmap & Milestones
 
 ### [Roadmap & Milestones](../../issues/3)
+
+<div id="team"></div>
 
 ## Team
 
 - **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Jing Jiang](https://jingjiangmodels.github.io/) & [Sarah Smith-Tripp](https://sarahsmithtripp.github.io/) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
 
+<div id="license"></div>
+
 ## ♻️ License
 
 This work is licensed under the MIT license. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use and with no additional restrictions.
+
+<div id="ack"></div>
 
 ## 🤝 Citing & Acknowledgement
 
@@ -101,6 +118,8 @@ This work is licensed under the MIT license. You are free to share and adapt the
 
 ## 🤝 Credits
 - These Contributing Guidelines have been adapted from the Contributing Guidelines of [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages)! (License: MIT)
+
+<div id="contributors"></div>
 
 ## Contributors ✨
 
