@@ -14,6 +14,8 @@
   <a href="#tutorials">Tutorials</a>
 </p>
 
+<br>
+
 <div id="news"></div>
 
 ## News
@@ -29,31 +31,82 @@
 
 -  🔥 Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
 
+<br>
+
 <div id="vision"></div>
 
 ## Vision
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
+<br>
+
 <div id="tutorials"></div>
 
 ## Tutorials
 
-- [Research Data Management](https://doi.org/10.5281/zenodo.14624629)
-- [Uploading data to Zenodo](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/reports/workshops/workshop-1/UploadingZenodo.html)
-- [Unsupervised Learning in Forest Modelling](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html)
-- [Distributed Computing](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html)
-- [Deep learning in Tree Species Classification](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html)
+<div style="text-align: left;">
+  <a href="https://doi.org/10.5281/zenodo.14624629" style="text-decoration: none;">
+    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+      📄 Research Data Management
+    </button>
+  </a>
+  <br><br>
+
+  <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/reports/workshops/workshop-1/UploadingZenodo.html" style="text-decoration: none;">
+    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+      ⬆️ Uploading Data to Zenodo
+    </button>
+  </a>
+  <br><br>
+
+  <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html" style="text-decoration: none;">
+    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+      🤖 Unsupervised Learning in Forest Modelling
+    </button>
+  </a>
+  <br><br>
+
+  <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html" style="text-decoration: none;">
+    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+      🔗 Distributed Computing
+    </button>
+  </a>
+  <br><br>
+
+  <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html" style="text-decoration: none;">
+    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+      🌲 Deep Learning in Tree Species Classification
+    </button>
+  </a>
+</div>
+
+<br>
+<br>
 
 <div id="workshops"></div>
 
 ## Workshops
 
-[![Workshop 1 - Earth Observation (EO) Data Management and Open Science Practices](./reports/figures/workshop1_tv.jpg)](https://youtu.be/QRvA-ZVUWdM&t=1s)
+<div style="text-align: center;">
+  <a href="https://youtu.be/QRvA-ZVUWdM&t=1s" target="_blank" title="Click to watch on YouTube">
+    <img src="./reports/figures/workshop1_tv.jpg" alt="Workshop Thumbnail" style="width: 300px; height: auto; border-radius: 5px;">
+  </a>
+  <br>
+  <p><strong>Workshop 1 - Earth Observation (EO) Data Management and Open Science Practices</strong></p>
+</div>
 
-[![Workshop 2 - Machine Learning in Forest Modelling](./reports/figures/workshop2-tv.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
+<br>
 
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s" target="_blank" title="Click to watch on YouTube">
+    <img src="./reports/figures/workshop2-tv.jpg" alt="Workshop Thumbnail" style="width: 300px; height: auto; border-radius: 5px;">
+  </a>
+  <br>
+  <p><strong>Workshop 2 - Machine Learning in Forest Modelling</strong></p>
+</div>
 
+<br>
 <div id="team"></div>
 
 ## Team
