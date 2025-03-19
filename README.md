@@ -53,48 +53,6 @@ Forestry professionals, environmental researchers, and policy makers are working
 
 [![Workshop 2 - Machine Learning in Forest Modelling](./reports/figures/workshop2-tv.jpg)](https://www.youtube.com/watch?v=ak4Y0czZn2w&t=5s)
 
-<div id="structure"></div>
-
-## Repo Structure
-
-Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
-
-```
-├── LICENSE
-├── README.md          <- The top-level README for users of this project.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│   └── notes          <- Generated notes/records to be used in reports/meetings/workshops
-|   └── presentations  <- presentations used in workshops
-│
-├── src                <- Source code for use in this project.
-│   │── data
-│   |   ├── processed      <- The final, canonical data sets for modeling.
-│   |   └── raw            <- The original, immutable data dump.
-|   |
-│   ├── dataset           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-|   |   └── tune_model.py
-|   |
-│   │── checkpoints             <- Trained and serialized models, model predictions, or model summaries
-│   |
-│   └── visualization  <- Scripts to create exploratory and results-oriented visualizations
-│       └── visualize.py
-└──
-```
----
-
-<div id="roadmap"></div>
-
-## 🎯 Roadmap & Milestones
-
-### [Roadmap & Milestones](../../issues/3)
 
 <div id="team"></div>
 
@@ -103,23 +61,20 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 - **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Jing Jiang](https://jingjiangmodels.github.io/) & [Sarah Smith-Tripp](https://sarahsmithtripp.github.io/) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
 
-<div id="license"></div>
 
-## ♻️ License
+<div id="roadmap"></div>
 
-This work is licensed under the MIT license. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use and with no additional restrictions.
+## 🎯 Roadmap & Milestones
+
+### [Roadmap & Milestones](../../issues/3)
+
 
 <div id="ack"></div>
 
-## 🤝 Citing & Acknowledgement
+## 🤝 Credits & Acknowledgement
 
 - **Acknowledgment:** Thanks [Alejandro Coca-Castro](https://github.com/acocac) for mentoring this project and his valuable suggestions!
 
-## 📫 Contact
-
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
-## 🤝 Credits
 - These Contributing Guidelines have been adapted from the Contributing Guidelines of [STEMM Role Models App](https://github.com/KirstieJane/STEMMRoleModels/tree/gh-pages)! (License: MIT)
 
 <div id="contributors"></div>
@@ -149,3 +104,10 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+
+<div id="license"></div>
+
+## ♻️ License
+
+This work is licensed under the MIT license. You are free to share and adapt the material for any purpose, even commercially, as long as you provide attribution (give appropriate credit, provide a link to the license, and indicate if changes were made) in any reasonable manner, but not in any way that suggests the licensor endorses you or your use and with no additional restrictions.
