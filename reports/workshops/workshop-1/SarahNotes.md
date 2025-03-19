@@ -1,3 +1,10 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+permalink: /404
+---
+
 # Sarah's Presentation notes for the AI workshop on Borealis, the dataverse and more
 
 ## What is the Digital Alliance of Canada?

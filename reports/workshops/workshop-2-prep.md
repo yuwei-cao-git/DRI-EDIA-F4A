@@ -1,3 +1,10 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+permalink: /404
+---
+
 # :speaker: Presenter
 
 [Jing Jiang](https://jingjiangmodels.github.io/)

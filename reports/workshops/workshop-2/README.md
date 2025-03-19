@@ -1,3 +1,10 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+permalink: /404
+---
+
 Slides for the Workshop 2 - Machine Learning in Forest Modeling are available here:
 
 https://docs.google.com/presentation/d/1_BdP2LGuDwwhWG2ArdWLQNWtRNA8G__AbYT-4un69dA/edit?usp=sharing

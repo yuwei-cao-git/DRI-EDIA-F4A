@@ -1,3 +1,10 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+permalink: /404
+---
+
 # Discussion Summary: Enhancing EDI and Community Building in the OLS Project
 ## Who Attended
 Dr. Julia Wagemann
