@@ -7,14 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#News">News</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Vision">About</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Tutorials">Tutorials</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A#Workshops">Workshops</a> •
-  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/MeetTheTeam.md">Team</a>
+  <a href="#News">News</a> •
+  <a href="#Vision">About</a> •
+  <a href="https://github.com/yuwei-cao-git/DRI-EDIA-F4A/MeetTheTeam.md">Team</a> •
+  <a href="#Workshops">Workshops</a> •
+  <a href="#Tutorials">Tutorials</a>
 </p>
 
 # News
+
 -  💥: Mar. 06, 2025, we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_0TEE9rR6BKyiuou) of our last workshop!  📆 2025-03-24 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
 -  💥: Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
 -  💥: Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa]) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
@@ -23,7 +24,7 @@
 -  💥: Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
 
 
-# Vision and Mission
+# Vision
 
 Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
@@ -31,6 +32,13 @@ Forestry professionals, environmental researchers, and policy makers are working
 
 - **Members:** Yuwei Cao & [Brianne Boufford](https://github.com/brianneboufford) & [Harry Seely](https://github.com/harryseely) & [Jing Jiang](https://jingjiangmodels.github.io/) & [Sarah Smith-Tripp](https://sarahsmithtripp.github.io/) & [Tommaso Trotto](https://github.com/ttrotto) & [Alejandro Coca-Castro](https://github.com/acocac) 
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
+
+# Tutorial
+- [Research Data Management](https://doi.org/10.5281/zenodo.14624629)
+- [Uploading data to Zenodo](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/reports/workshops/workshop-1/UploadingZenodo.html)
+- [Unsupervised Learning in Forest Modelling](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html)
+- [Distributed Computing](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html)
+- [Deep learning in Tree Species Classification](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html)
 
 # ♻️ License
 

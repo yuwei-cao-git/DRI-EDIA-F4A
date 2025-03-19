@@ -22,9 +22,11 @@ Forestry professionals, environmental researchers, and policy makers are working
 
 ## Tutorials
 
-Workshop 1: https://doi.org/10.5281/zenodo.14624629
-
-Workshop 2: https://github.com/ttrotto/EDI-HPC
+- [Research Data Management](https://doi.org/10.5281/zenodo.14624629)
+- [Uploading data to Zenodo](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/reports/workshops/workshop-1/UploadingZenodo.html)
+- [Unsupervised Learning in Forest Modelling](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html)
+- [Distributed Computing](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html)
+- [Deep learning in Tree Species Classification](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html)
 
 ## Workshops
 
