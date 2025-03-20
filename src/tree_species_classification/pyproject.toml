@@ -18,7 +18,8 @@ dependencies = [
   "rioxarray==0.18.2",
   "ipywidgets==8.1.5",
   "folium", 
-  "mapclassify"
+  "mapclassify",
+  "gdown",
 ]
 
 [tool.uv.sources]
