@@ -20,6 +20,8 @@ dependencies = [
   "folium", 
   "mapclassify",
   "gdown",
+  "tensorboardX",
+  "tensorboard",
 ]
 
 [tool.uv.sources]
