@@ -18,39 +18,42 @@
     `[name@server ~]$ ssh -Y username@graham.alliancecan.ca`
 
 ## 2 Github code management
-   ### 2.1 on local machine: generate ssh key:
-        ```
-        ssh-keygen -t ed25519 -C "your_email@example.com"
-        ```
-    ### 2.2 on cluster (e.g., graham or narval)
-        ```
-        ssh-keygen -t rsa -b 4096
-        eval `ssh-agent -s`
-        ssh-add ~/.ssh/id_rsa_gra
-        ssh -T git@github.com
-        ```
-   ### 2.3 add new ssh keys (local machine and cluster)in the github
-   ### 2.4 create repository and coding on local machine:
-   
-        ```
-        # first tiem
-        git clone git@github.com:***.git
-        # after make changes
-        git add *
-        git commit
-        git push
-        ```
+### 2.1 on local machine: generate ssh key:
+
+```
+ssh-keygen -t ed25519 -C "your_email@example.com"
+```
         
-   ### 2.5 on cluster clone code and pull changes
+### 2.2 on cluster (e.g., graham or narval)
+
+```
+ssh-keygen -t rsa -b 4096
+eval `ssh-agent -s`
+ssh-add ~/.ssh/id_rsa_gra
+ssh -T git@github.com
+```
+
+### 2.3 add new ssh keys (local machine and cluster)in the github
+### 2.4 create repository and coding on local machine:
    
-        ```
-        mkdir code
-        cd code
-        # the first time
-        git clone 
-        # after make changes in local machine
-        git pull
-        ```
+```
+# first tiem
+git clone git@github.com:***.git
+# after make changes
+git add *
+git commit
+git push
+```
+### 2.5 on cluster clone code and pull changes
+
+```
+mkdir code
+cd code
+# the first time
+git clone 
+# after make changes in local machine
+git pull
+```
         
 ## 3 Confirm the filesystems
    - when log into Alliance, in the ~ home directory
@@ -70,17 +73,17 @@
 
 ## 5 Setting the virtualenv in local machine
    - create env:
-      ```
-      $ sudo apt update && sudo apt upgrade -y
-      $ pip3 install virtualenv
-      $ virtualenv -p /usr/bin/python3 venv
-      ```
+   ```
+   $ sudo apt update && sudo apt upgrade -y
+   $ pip3 install virtualenv
+   $ virtualenv -p /usr/bin/python3 venv
+   ```
    - install packages
-      ```
-      pip3 install torch torchvision torchaudio scikit-learn tqdm
-      pip install ...
-      
-      ```
+   ```
+   pip3 install torch torchvision torchaudio scikit-learn tqdm
+   pip install ...
+   
+   ```
    - test with code
 
    - export env requirement
