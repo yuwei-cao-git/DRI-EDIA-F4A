@@ -1,7 +1,8 @@
 # Tutorial - Train your model on a cluster
 ---
 
-0. Clusters Comparison
+## Clusters Comparison
+
 | Cluster  | GPU | Login node | network  |Cores|Stars  |
 |----------|----------|----------|----------|----------|----------|
 | Beluga    | 4* V100SXM2 (16G)   | beluga.alliancecan.ca  | :heavy_check_mark:  |40|:star: |
@@ -9,26 +10,28 @@
 | graham    | 2*P100(12G)<br> 6*V100Volta(16G)<br> 8*V100(32G)<br> 4*T4(16G)<br> 4*T4(16G)<br> 8*A100<br> 4*A100<br> 4*A5000 | graham.alliancecan.ca   |:heavy_check_mark: | 32<br> 28<br> 40<br> 16<br> 44<br> 128<br> 32<br> 64<br>|:star::star::star:  |   
 | Narval    | 4*A100SXM4 (40G)   | narval.alliancecan.ca   |:x: | 48|:star::star::star: |
 
-1. Connecting to the system
-   1.1. Install WSL on windows
-   1.2. SSH Connecting: 
+## 1 Connecting to the system
+
+   - Install WSL on windows
+   - SSH Connecting: 
     `[name@server ~]$ ssh -Y username@narval.alliancecan.ca`
     `[name@server ~]$ ssh -Y username@graham.alliancecan.ca`
 
-2. Github code management
-   1. on local machine: generate ssh key:
+## 2 Github code management
+   ### 2.1 on local machine: generate ssh key:
         ```
         ssh-keygen -t ed25519 -C "your_email@example.com"
         ```
-    2. on cluster (e.g., graham or narval)
+    ### 2.2 on cluster (e.g., graham or narval)
         ```
         ssh-keygen -t rsa -b 4096
         eval `ssh-agent -s`
         ssh-add ~/.ssh/id_rsa_gra
         ssh -T git@github.com
         ```
-   3. add new ssh keys (local machine and cluster)in the github
-   4. create repository and coding on local machine:
+   ### 2.3 add new ssh keys (local machine and cluster)in the github
+   ### 2.4 create repository and coding on local machine:
+   
         ```
         # first tiem
         git clone git@github.com:***.git
@@ -37,7 +40,9 @@
         git commit
         git push
         ```
-   5. on cluster clone code and pull changes
+        
+   ### 2.5 on cluster clone code and pull changes
+   
         ```
         mkdir code
         cd code
@@ -46,12 +51,12 @@
         # after make changes in local machine
         git pull
         ```
-3. Confirm the filesystems
-   1. when log into Alliance, in the ~ home directory
-   2. set project folder: 
+        
+## 3 Confirm the filesystems
+   - when log into Alliance, in the ~ home directory
+   - set project folder: 
     `$ vi .bashrc`
         > add `export project=~/projects/def-pifolder/username` to the last row of `.bashrc` to add a variable `$project`
-
    ```
    $ mv code $project
    $ cd $project
@@ -59,32 +64,30 @@
    ```
    ![alt text](./img/image-3.png)
 
-4. Transfer files
+## 4 Transfer files
    - Go to [Globus](https://globus.alliancecan.ca/file-manager) portal, Settings ->  Link Identity -> Your "existing organizational login" is your CCDB account. Ensure that Digital Research Alliance of Canada is selected in the drop-down box -> continue with your ccdb username -> continue -> allow
    - upload files: file manager page -> collection -> typing a collection name ( computecanada#graham-globus, computecanada#cedar-globus...) -> authenticate
 
+## 5 Setting the virtualenv in local machine
+   - create env:
+      ```
+      $ sudo apt update && sudo apt upgrade -y
+      $ pip3 install virtualenv
+      $ virtualenv -p /usr/bin/python3 venv
+      ```
+   - install packages
+      ```
+      pip3 install torch torchvision torchaudio scikit-learn tqdm
+      pip install ...
+      
+      ```
+   - test with code
 
-5. Setting the virtualenv in local machine
-- create env:
-   
-   ```
-   $ sudo apt update && sudo apt upgrade -y
-   $ pip3 install virtualenv
-   $ virtualenv -p /usr/bin/python3 venv
-   ```
-- install packages
+   - export env requirement
+      `pip freeze --local > requirements.txt`
 
-```
-pip3 install torch torchvision torchaudio scikit-learn tqdm
-pip install ...
+## 6 Setting the virtualenv in remote machine
 
-```
-- test with code
-
-- export env requirement
-   `pip freeze --local > requirements.txt`
-
-6. Setting the virtualenv in remote machine
 ```
 $ module purge
 [name@server ~]$ module load python/3.10 scipy-stack
@@ -97,7 +100,9 @@ $ module purge
 [name@server ~]$ rm -rf $ENVDIR
 
 ```
-6. Use `$SLURM_TMPDIR` when runing a job!
+
+## 7 runing a job!
+
 > using **git** to download code, specifically:
 
 ```
@@ -113,10 +118,9 @@ pip install --no-index wandb
 
 ``` 
 
-7. Test in interactive run first!
+## 8 Test in interactive run first!
 
 ```
-
 cd $project/project_folder
 git pull
 
@@ -134,6 +138,7 @@ wandb offline
 python main_ddp.py
 
 ```
+
 after finish:
 
 `wandb sync ./wandb/offline-run-*`
