@@ -1,5 +1,5 @@
 ---
-title: Tutorial - Train your model on a cluster
+title: Workshop 3 Tutorial - Train your model on a cluster
 nav_order: 6
 ---
 

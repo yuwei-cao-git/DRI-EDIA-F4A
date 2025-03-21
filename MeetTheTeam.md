@@ -1,3 +1,7 @@
+---
+nav_order: 2
+---
+
 # Meet the Team
 
 ## Yuwei Cao <img src="https://irsslab.forestry.ubc.ca/files/2024/06/pic_portrait-200x300.jpg" width="200" align="right"/>

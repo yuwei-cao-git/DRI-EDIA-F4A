@@ -1,5 +1,5 @@
 ---
-title: Tutorial - DRI Intro
+title: Workshop 3 Tutorial - DRI Intro
 nav_order: 5
 ---
 
