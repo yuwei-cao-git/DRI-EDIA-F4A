@@ -80,7 +80,6 @@
 </div>
 
 <br>
-<br>
 
 <div id="workshops"></div>
 
