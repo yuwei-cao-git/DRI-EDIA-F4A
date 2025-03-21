@@ -1,7 +1,3 @@
----
-nav_order: 1
----
-
 <h1 style="text-align:center;">
   DRI-EDIA-F4A: Advancing Equity in Forestry: Digital Research Infrastructure and Deep Learning for All
 </h1>

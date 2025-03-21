@@ -9,11 +9,11 @@ nav_external_links:
   - title: Workshop 3 Tutorial - Preprocess Data
     url: https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/preprocess_data.html
     nav_order: 7
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: true # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
 
   - title: Workshop 3 Tutorial - DL Model Setup
     url: https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html
     nav_order: 8
-    hide_icon: false # set to true to hide the external link icon - defaults to false
+    hide_icon: true # set to true to hide the external link icon - defaults to false
     opens_in_new_tab: false # set to true to open this link in a new tab - defaults to false
