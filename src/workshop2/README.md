@@ -1,3 +1,8 @@
+---
+title: Workshop 2 Tutorial - Machine Learning in Forest Modeling
+nav_order: 4
+---
+
 # Workshop 2: Machine Learning in Forest Modeling
  
 Welcome to this workshop's repository. Here you'll find the code tutorials we will run during the workshop.

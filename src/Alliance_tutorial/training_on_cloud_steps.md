@@ -1,6 +1,6 @@
 ---
 title: Tutorial - Train your model on a cluster
-nav_order: 7
+nav_order: 6
 ---
 
 # Tutorial - Train your model on a cluster

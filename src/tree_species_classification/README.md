@@ -1,3 +1,10 @@
+---
+layout: default
+title: 404
+nav_exclude: true
+permalink: /404
+---
+
 # Workshop 3 Tutorial: Deep Learning in Forest Modeling
  
 Welcome to this workshop's repository. Here you'll find the code tutorials we will run during the workshop.
