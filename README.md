@@ -68,7 +68,7 @@
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/preprocess_data.html" style="text-decoration: none;">
     <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
-      Preprocess Data for Deep Learning
+      🌎 Preprocess Data for Deep Learning
     </button>
   </a>
   <br><br>
