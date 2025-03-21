@@ -1,8 +1,6 @@
 ---
 layout: default
-title: 404
-nav_exclude: true
-permalink: /404
+title: Workshop-3 details
 ---
 
 # :speaker: Presenter
