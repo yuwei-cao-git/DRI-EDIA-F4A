@@ -51,7 +51,7 @@ https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/28
 | 2:55 - 3:30  | 35 minutes   | Interactive Deep Learning Session: Try it out!                           |
 | 3:30 - 3:35  | 5 minutes    | Modelling Forest Biomass using Deep Learning (Harry)                     |
 | 3:35 - 3:40  | 5 minutes    | Modelling Tree Species using Deep Learning (Yuwei)                       |
-| 3:40 - 4:00  | 20 minutes   | Discussion about Women in AI Research and Development                    |
+| 3:40 - 4:00  | 20 minutes   | Discussion about AI Research and DRI                    |
 
 # Workshop Notes from Feb 24th meeting (Harry)
 
