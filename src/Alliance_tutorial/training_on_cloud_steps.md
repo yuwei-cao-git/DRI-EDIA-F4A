@@ -139,7 +139,6 @@ export MASTER_ADDR=$(hostname) #Store the master node’s IP address in the MAST
 
 wandb offline
 python main_ddp.py
-
 ```
 
 after finish:
