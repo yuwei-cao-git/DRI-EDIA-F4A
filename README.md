@@ -33,14 +33,6 @@
 
 <br>
 
-<div id="vision"></div>
-
-## Vision
-
-Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
-
-<br>
-
 <div id="tutorials"></div>
 
 ## Tutorials
@@ -93,6 +85,7 @@ Forestry professionals, environmental researchers, and policy makers are working
 <div id="workshops"></div>
 
 ## Workshops
+<br>
 
 <div style="text-align: center;">
   <a href="https://youtu.be/QRvA-ZVUWdM&t=1s" target="_blank" title="Click to watch on YouTube">
@@ -121,11 +114,20 @@ Forestry professionals, environmental researchers, and policy makers are working
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
 
 
+
+<div id="vision"></div>
+
+## Vision
+
+Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
+
+<br>
+
 <div id="roadmap"></div>
 
 ## 🎯 Roadmap & Milestones
 
-### [Roadmap & Milestones](../../issues/3)
+[Roadmap & Milestones](../../issues/3)
 
 
 <div id="ack"></div>
