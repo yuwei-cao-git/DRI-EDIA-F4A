@@ -3,7 +3,8 @@ layout: default
 title: Workshop-3 details
 ---
 
-# :speaker: Presenter
+# Presenters
+
 
 [Harry Seely](https://github.com/harryseely)
 
@@ -11,9 +12,9 @@ title: Workshop-3 details
 
 # Time & Location
 
-:calendar: 2025-02-24 2 - 4pm
+2025-02-24 2 - 4pm
 
-:round_pushpin: UBC Forestry R-RM FSC 4001
+UBC Forestry R-RM FSC 4001
 
 # Tasks
 https://github.com/yuwei-cao-git/DRI-EDIA-F4A/issues/28
