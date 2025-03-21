@@ -6,7 +6,7 @@
 | Cluster  | GPU | Login node | network  |Cores|Stars  |
 |----------|----------|----------|----------|----------|----------|
 | Beluga    | 172*4* V100SXM2 (16G)   | beluga.alliancecan.ca  | :heavy_check_mark:  |40|:star::star: |
-| Cedar    | 4* P100 (12G)<br> 4*P100 (16G)<br> 4*V100 Volta (32G)    | cedar.alliancecan.ca   |:heavy_check_mark:|24<br> 24<br> 32| :star::star:star: |
+| Cedar    | 4* P100 (12G)<br> 4*P100 (16G)<br> 4*V100 Volta (32G)    | cedar.alliancecan.ca   |:heavy_check_mark:|24<br> 24<br> 32| :star::star::star: |
 | graham    | 2*P100(12G)<br> 6*V100Volta(16G)<br> 8*V100(32G)<br> 4*T4(16G)<br> 4*T4(16G)<br> 8*A100<br> 4*A100<br> 4*A5000 | graham.alliancecan.ca   |:x: | 32<br> 28<br> 40<br> 16<br> 44<br> 128<br> 32<br> 64<br>|:star::star::star:  |   
 | Narval    | 159*4*A100SXM4 (40G)   | narval.alliancecan.ca   |:x: | 48|:star::star::star: |
 
