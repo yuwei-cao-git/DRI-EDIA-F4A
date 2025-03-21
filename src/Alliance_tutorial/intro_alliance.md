@@ -1,4 +1,5 @@
 # Digital research alliance of Canada - Research Computing Intro
+
 ## Access to the system
 - interacitve access: ssh client
   - linux/mac: builtin command: ssh
