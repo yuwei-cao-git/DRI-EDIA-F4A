@@ -1,3 +1,8 @@
+---
+title: Tutorial - DRI Intro
+nav_order: 6
+---
+
 # Digital research alliance of Canada - Research Computing Intro
 
 ## Access to the system

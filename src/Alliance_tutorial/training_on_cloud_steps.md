@@ -1,3 +1,8 @@
+---
+title: Tutorial - Train your model on a cluster
+nav_order: 7
+---
+
 # Tutorial - Train your model on a cluster
 ---
 
