@@ -39,41 +39,41 @@
 
 <div style="text-align: left;">
   <a href="https://doi.org/10.5281/zenodo.14624629" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       📄 Research Data Management
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/reports/workshops/workshop-1/UploadingZenodo.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       ⬆️ Uploading Data to Zenodo
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🤖 Unsupervised Learning in Forest Modelling
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🔗 Distributed Computing
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/preprocess_data.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🌎 Preprocess Data for Deep Learning
     </button>
   </a>
   <br><br>
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🌲 Deep Learning in Tree Species Classification
     </button>
   </a>
