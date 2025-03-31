@@ -19,17 +19,13 @@
 <div id="news"></div>
 
 ## News
--  🔥 Mar. 10, 2025: we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_0TEE9rR6BKyiuou) of the third workshop! 📆 2025-03-24 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
+-  🔥 Mar. 31, 2025: we uploaded the [recording](https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s), [slides](https://doi.org/10.5281/zenodo.15116336) 
+), and [code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html) for our second workshop!
 
--  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
-
--  🔥 Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa]) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
+-  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), [unsupervised learning code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html), [run distributed code on cluster](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html) for our second workshop!
 
 -  🎉 Feb. 10, 2025: we uploaded the [recording](https://lnkd.in/dTnGpGDu) and [slides](https://doi.org/10.5281/zenodo.14624629) in our first workshop 🌟 Workshop 1: Earth Observation (EO) Data Management and Open Science Practices 🌟! 
 
--  🔥 Jan. 10, 2025: we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa) of the first workshop! 📆 2025-01-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
-
--  🔥 Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
 
 <br>
 
@@ -102,6 +98,16 @@
   </a>
   <br>
   <p><strong>Workshop 2 - Machine Learning in Forest Modelling</strong></p>
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s" target="_blank" title="Click to watch on YouTube">
+    <img src="./reports/figures/workshop3-tv.jpg" alt="Workshop Thumbnail" style="width: 300px; height: auto; border-radius: 5px;">
+  </a>
+  <br>
+  <p><strong>Workshop 3 - Advanced Computing and Deep Learning in Forestry</strong></p>
 </div>
 
 <br>
