@@ -103,7 +103,7 @@
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s" target="_blank" title="Click to watch on YouTube">
-    <img src="./reports/figures/workshop3-tv.jpg" alt="Workshop Thumbnail" style="width: 300px; height: auto; border-radius: 5px;">
+    <img src="./reports/figures/workshop3-tv.png" alt="Workshop Thumbnail" style="width: 300px; height: auto; border-radius: 5px;">
   </a>
   <br>
   <p><strong>Workshop 3 - Advanced Computing and Deep Learning in Forestry</strong></p>
