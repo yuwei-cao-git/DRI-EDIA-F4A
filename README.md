@@ -19,8 +19,7 @@
 <div id="news"></div>
 
 ## News
--  🔥 Mar. 31, 2025: we uploaded the [recording](https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s), [slides](https://doi.org/10.5281/zenodo.15116336) 
-), and [code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html) for our second workshop!
+-  🔥 Mar. 31, 2025: we uploaded the [recording](https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s), [slides](https://doi.org/10.5281/zenodo.15116336), and [code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html) for our second workshop!
 
 -  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), [unsupervised learning code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html), [run distributed code on cluster](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html) for our second workshop!
 
