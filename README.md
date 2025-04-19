@@ -21,7 +21,7 @@
 ## News
 -  🔥 Mar. 31, 2025: we uploaded the [recording](https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s), [slides](https://doi.org/10.5281/zenodo.15116336), and [code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html) for our second workshop!
 
--  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), [unsupervised learning code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html), [run distributed code on cluster](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html) for our second workshop!
+-  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](https://docs.google.com/presentation/d/1_BdP2LGuDwwhWG2ArdWLQNWtRNA8G__AbYT-4un69dA/edit#slide=id.p), [unsupervised learning code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html), [run distributed code on cluster](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html) for our second workshop!
 
 -  🎉 Feb. 10, 2025: we uploaded the [recording](https://lnkd.in/dTnGpGDu) and [slides](https://doi.org/10.5281/zenodo.14624629) in our first workshop 🌟 Workshop 1: Earth Observation (EO) Data Management and Open Science Practices 🌟! 
 
