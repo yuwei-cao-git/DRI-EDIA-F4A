@@ -103,9 +103,11 @@ lfs quota -u $USER /project
 #### Multinode jobs
 If a job spans multiple nodes and some data is needed on every node, then a simple ```cp``` or `tar -x` will not suffice.
 - copy files to every node to the SLURM_TMPDIR:
+
 ```
 [name@server ~]$ srun --ntasks=$SLURM_NNODES --ntasks-per-node=1 cp file [files...] $SLURM_TMPDIR
 ```
+
 - compressed archives:
 ```
 # zip
@@ -116,7 +118,9 @@ If a job spans multiple nodes and some data is needed on every node, then a simp
 
 
 ### Large collections of files handling
-#### useful checking script:
+
+#### useful checking script
+
 ```
 # recursively count all files in folders in the current directory
 for FOLDER in $(find . -maxdepth 1 -type d | tail -n +2); do
@@ -126,10 +130,14 @@ done
 #  output the 10 directories using the most disk space from your current directory
 [name@server ~]$ du -sh  * | sort -hr | head -10
 ```
+
 #### Solutions
+
 ##### Local disk
+
 in general, will have a performance that is considerably better than the project or scratch filesystems. You can access this local disk inside of a job using the environment variable $SLURM_TMPDIR. One approach therefore would be to keep your dataset archived as a single tar file in the project space and then copy it to the local disk at the beginning of your job, extract it and use the dataset during the job. If any changes were made, at the job's end you could again archive the contents to a tar file and copy it back to the project space.
 ![local_disk_job_script](D:\research\tree species estimation\tools\cloud computing\scripts\local_disk_job_script.sh)
+
 ##### RAM disk
 The /tmp file system can be used as a RAM disk on the compute nodes. It is implemented using tmpfs. Here is more information
 
@@ -151,11 +159,14 @@ like all of a job's other memory use, falls under the cgroup limit corresponding
       ```
 
     - parallel hdf5:
+
       ```
       [name@server ~]$ module load hdf5/1.8.18
       [name@server ~]$ gcc example.c -lhdf5
       ```
+      
       example 2: [h5ex_d_rdwr.c](../tools/cloudcomputing/scripts/h5ex_d_rdwr.c) 
+
       ```
       [name@server ~]$ module load hdf5-mpi
       [name@server ~]$ mpicc h5ex_d_rdwr.c -o h5ex_d_rdwr -lhdf5
@@ -177,11 +188,13 @@ the computing servers are used by many users all the time but each user would li
 - job starting, executing, and monitoring
 - queue of pending jobs management
 - how
+
 ```
 cd $SCRATH/exec_dir
 # write your script using an available editor
 vi script
 ```
+
 **[in the script:](../tools/cloudcomputing/scripts/example.sh)**
 #### commands for scheduler (resources + account_no)
 ```
@@ -199,6 +212,7 @@ vi script
 #SBATCH --error=errjobfile-%J.err #stderr file
 #SBATCH --output=outjobfile-J.out #stdout file
 ```
+
 > **NOTE for long runing computations:** If your computations are long, you should use checkpointing. For example, if your training time is 3 days, you should split it in 3 chunks of 24 hours. This will prevent you from losing all the work in case of an outage, and give you an edge in terms of **priority** (more nodes are available for short jobs). Most machine learning libraries natively support **checkpointing**; the typical case is covered in our [tutorial](https://docs.alliancecan.ca/wiki/Tutoriel_Apprentissage_machine/en#Checkpointing_a_long-running_job). If your program does not natively support this, we provide a [general checkpointing solution](https://docs.alliancecan.ca/wiki/Points_de_contr%C3%B4le/en).
 > More examples: 
 >   - [Checkpointing with PyTorch](https://docs.alliancecan.ca/wiki/PyTorch#Creating_model_checkpoints)
@@ -212,15 +226,17 @@ module load ...
 execution commands
 ```
 > **some tips for Module environment**
-> ```
-> $ modmap -m ...
-> $ modmap -p eng
-> $ module load ...
-> $ module list
-> $ module purge # clean the environment
-> $ module help ...
-> ```
+```
+$ modmap -m ...
+$ modmap -p eng
+$ module load ...
+$ module list
+$ module purge # clean the environment
+$ module help ...
+```
+
 #### Submit the script to the scheduler
+
 ```
 sbatch script.sh
 # wait ... and check
@@ -230,10 +246,13 @@ squeue -l -j <job_id>
 scancel jobid#
 scancel -u username (ALL)
 ```
+
 #### The job completes: you can get final results
+
 ```
 ls -ltr
 ```
+
 #### some alias 
 see [.bashrc](../tools/cloudcomputing/scripts/.bashrc) file used by polimi course
 
@@ -272,25 +291,31 @@ Edit your program such that it doesn't use a graphical display. All graphical re
 Shared storage on our clusters is not designed to handle lots of small files (they are optimized for very large files). Make sure that the data set which you need for your training is an archive format like *tar*, which you can then transfer to your job's compute node when the job starts. If you do not respect these rules, you risk causing enormous numbers of I/O operations on the shared filesystem, leading to performance issues on the cluster for all of its users. 
 
 Assuming that the files which you need are in the directory mydataset:
+
 ```
 $ tar cf mydataset.tar mydataset/*
 ```
+
 The above command does not compress the data. If you believe that this is appropriate, you can use ```tar czf```.
 
 ## Step 3: Preparing your virtual environment
 
 ### Python
 1. load a pytho module
+   
    ```
     [name@server ~]$ module avail python
     # or a specific version
     [name@server ~]$ module avail python/3.10
    ```
+
 2. load others: numpy, scipy, matplotlib, IPython, pandas
    ```module load scipy-stack```
 
 ### virtual environment    
-#### [Create a virtual environment](https://docs.alliancecan.ca/wiki/Python#Creating_and_using_a_virtual_environment) in your home/project dirctory.
+
+#### [Create a virtual environment](https://docs.alliancecan.ca/wiki/Python#Creating_and_using_a_virtual_environment) in your home/project directory.
+
 ```
 # load modules first then create a new env:
 [name@server ~]$ virtualenv --no-download ENV
@@ -301,10 +326,12 @@ The above command does not compress the data. If you believe that this is approp
 # exit env
 (ENV) [name@server ~] deactivate
 ```
+
 > you can use the same env over and over again, but each time, you need to load the same modules `module load python scipy-stack` and activate the env `source ENV/bin/activate`
 
 #### Install packages
 once you have a env, you can compile and install most of python packages and their dependencies. 
+
 ```
 [name@server ~]$ module load python/3.10
 [name@server ~]$ source ENV/bin/activate
@@ -312,6 +339,7 @@ once you have a env, you can compile and install most of python packages and the
 (ENV) [name@server ~] pip install numpy tensorflow_cpu --no-index
 (ENV) [name@server ~] pip install my_package --no-deps # --no-deps tells pip to ignore dependencies.
 ```
+
 > check versions:
 
 list all versions contains "cdf": 
@@ -328,6 +356,7 @@ install on a single-node job:
 ![submit_venv.sh](../tools/cloudcomputing/scripts/submit_venv.sh)
 
 where the `requirements.txt` file will **have been created** from a ==test== environment by:
+
  ```
  [name@server ~]$ module load python/3.10
 [name@server ~]$ ENVDIR=/tmp/$RANDOM
@@ -355,9 +384,12 @@ In order to run scripts across multiple nodes, each node must have its own virtu
 
     EOF
     ```
+    
 2. Activate the virtual environment on the main node:
+
    ```source $SLURM_TMPDIR/env/bin/activate;```
-3. Use srun to run your script:
+   
+4. Use srun to run your script:
    `srun python myscript.py;`
 example:
 ![submit_nnodes_env.sh](../tools/cloudcomputing/scripts/submit_nnodes_venv.sh)
@@ -389,10 +421,12 @@ Check this link for python hanging, packages, envs...
 > **Note!**
 > from pytorch version 1.7.x to 1.11.x, 20x speedups using TF32 in *Ampere and later Nvidia GPU architectures* (==**Narval!**==) than using only FP32. However, such gains in performance come at the cost of potentially ==**decreased accuracy**==. So from 1.12.0, TF32 is disabled by default for matrix multiplications, enbled by default for convoloutions.
 > To enable or disable TF32 on torch >=1.12.0:
+
 ```
 torch.backends.cuda.matmul.allow_tf32 = False # Enable/disable TF32 for matrix multiplications
 torch.backends.cudnn.allow_tf32 = False # Enable/disable TF32 for convolutions
 ```
+
 ##### pytorch with multi-cpus
 - usage: small scale models (what scale is small? how many parameters?how many data?)
 - how? see example
