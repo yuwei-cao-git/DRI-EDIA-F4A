@@ -5,6 +5,9 @@ nav_order: 5
 
 # Digital research alliance of Canada - Research Computing Intro
 
+## Register an account
+https://alliancecan.ca/en/services/advanced-research-computing/account-management/apply-account
+
 ## Access to the system
 - interacitve access: ssh client
   - linux/mac: builtin command: ssh
