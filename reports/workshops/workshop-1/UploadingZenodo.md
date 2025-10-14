@@ -1,3 +1,10 @@
+---
+title: Workshop 1 Tutorial - Upload data to Zenodo
+nav_order: 3
+---
+
+# Upload data to Zenodo
+
 ## here we start the upload
 ![uploadingd data](img/image.png)
 

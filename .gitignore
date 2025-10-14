@@ -7,3 +7,6 @@
 **/data
 **/logs
 src/tree_species_classification/crown_cnn_classification.qgz
+
+# Ignore log files
+**/lightning_logs/

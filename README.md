@@ -19,25 +19,12 @@
 <div id="news"></div>
 
 ## News
--  🔥 Mar. 10, 2025: we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_0TEE9rR6BKyiuou) of the third workshop! 📆 2025-03-24 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
+-  🔥 Mar. 31, 2025: we uploaded the [recording](https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s), [slides](https://doi.org/10.5281/zenodo.15116336), and [code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html) for our second workshop!
 
--  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](./reports/workshops/workshop-2/README.md), and [code](./src/workshop2/README.md) for our second workshop!
-
--  🔥 Feb. 19, 2025: we are open for [registration]([https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa]) of the second workshop! 📆 2025-02-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
+-  🎉 Mar. 04, 2025: we uploaded the [recording](https://youtu.be/ak4Y0czZn2w), [slides](https://docs.google.com/presentation/d/1_BdP2LGuDwwhWG2ArdWLQNWtRNA8G__AbYT-4un69dA/edit#slide=id.p), [unsupervised learning code](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html), [run distributed code on cluster](https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html) for our second workshop!
 
 -  🎉 Feb. 10, 2025: we uploaded the [recording](https://lnkd.in/dTnGpGDu) and [slides](https://doi.org/10.5281/zenodo.14624629) in our first workshop 🌟 Workshop 1: Earth Observation (EO) Data Management and Open Science Practices 🌟! 
 
--  🔥 Jan. 10, 2025: we are open for [registration](https://ubc.ca1.qualtrics.com/jfe/form/SV_dnWsUSt5200JECa) of the first workshop! 📆 2025-01-27 2 pm - 4 pm 📍 UBC Forestry R-RM FSC 4001 & 4003.
-
--  🔥 Nov., 2024: we are recruiting members of our working group at Forestry UBC. Contact: yuwei.cao@ubc.ca 
-
-<br>
-
-<div id="vision"></div>
-
-## Vision
-
-Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
 
 <br>
 
@@ -47,52 +34,52 @@ Forestry professionals, environmental researchers, and policy makers are working
 
 <div style="text-align: left;">
   <a href="https://doi.org/10.5281/zenodo.14624629" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       📄 Research Data Management
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/reports/workshops/workshop-1/UploadingZenodo.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       ⬆️ Uploading Data to Zenodo
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/unsupervised_learning.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🤖 Unsupervised Learning in Forest Modelling
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/workshop2/python/html/distributed.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🔗 Distributed Computing
     </button>
   </a>
   <br><br>
 
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/preprocess_data.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
-      Preprocess Data for Deep Learning
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
+      🌎 Preprocess Data for Deep Learning
     </button>
   </a>
   <br><br>
   <a href="https://yuwei-cao-git.github.io/DRI-EDIA-F4A/src/tree_species_classification/tree_species_classification.html" style="text-decoration: none;">
-    <button style="background-color: rgb(201, 201, 201); color: black; padding: 15px 30px; border: 1px solidrgba(165, 37, 8, 0.66); border-radius: 1px; cursor: pointer; width: 100%; text-align: left; font-size: 16px;">
+    <button style="background-color: #eee; color: #444; padding: 18px; border: none; border-radius: 1px; cursor: pointer; width: 100%; text-align: left; outline: none; font-size: 16px;">
       🌲 Deep Learning in Tree Species Classification
     </button>
   </a>
 </div>
 
 <br>
-<br>
 
 <div id="workshops"></div>
 
 ## Workshops
+<br>
 
 <div style="text-align: center;">
   <a href="https://youtu.be/QRvA-ZVUWdM&t=1s" target="_blank" title="Click to watch on YouTube">
@@ -113,6 +100,16 @@ Forestry professionals, environmental researchers, and policy makers are working
 </div>
 
 <br>
+
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=2cCBOIj36oA&t=459s" target="_blank" title="Click to watch on YouTube">
+    <img src="./reports/figures/workshop3-tv.png" alt="Workshop Thumbnail" style="width: 300px; height: auto; border-radius: 5px;">
+  </a>
+  <br>
+  <p><strong>Workshop 3 - Advanced Computing and Deep Learning in Forestry</strong></p>
+</div>
+
+<br>
 <div id="team"></div>
 
 ## Team
@@ -121,11 +118,20 @@ Forestry professionals, environmental researchers, and policy makers are working
 - **Roles & Responsibilities:** [Team Directory](./MeetTheTeam.md) outlines roles, responsibilities and their ways of working.
 
 
+
+<div id="vision"></div>
+
+## Vision
+
+Forestry professionals, environmental researchers, and policy makers are working together to advance digital research infrastructure and deep learning for all, and have gained significant skills to strengthen and disseminate their work in forestry research and applications through advanced computing and open science principles.
+
+<br>
+
 <div id="roadmap"></div>
 
 ## 🎯 Roadmap & Milestones
 
-### [Roadmap & Milestones](../../issues/3)
+[Roadmap & Milestones](../../issues/3)
 
 
 <div id="ack"></div>
